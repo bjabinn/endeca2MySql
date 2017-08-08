@@ -30,65 +30,150 @@ namespace Endeca2MySql
 
 
             int counterFilter = 0
-            var filterList = new List<filter>();
+            var filterList = new List<Filter>();
 
-            //(1,'Champagne','champagne','',0,1,0),
-            //(2,'Fortified','fortified','',0,1,0),
-            //(3,'Mixed Cases','mixed','',0,1,0),
-            //(4,'Port','port','',0,1,0),
-            //(5,'Red Wine','redwine','',0,1,0),
-            //(6,'Rose Wine','rosewine','',0,1,0),
-            //(7,'Sherry','sherry','',0,1,0),
-            //(8,'Sparkling','sparkling','',0,1,0),
-            //(9,'White Wine','whitewine','',0,1,0),
+            //Drink Type
+            filterList.Add(new Filter(1, "Champagne", "champagne", "", 0, 1, 0, true));
+            filterList.Add(new Filter(2, "Fortified", "fortified", "", 0, 1, 0, true));
+            filterList.Add(new Filter(3,"Mixed Cases","mixed","",0,1,0, true));
+            filterList.Add(new Filter(4,"Port","port","",0,1,0, true));
+            filterList.Add(new Filter(5,"Red Wine","redwine","",0,1,0, true));
+            filterList.Add(new Filter(6,"Rose Wine","rosewine","",0,1,0, true));
+            filterList.Add(new Filter(7,"Sherry","sherry","",0,1,0, true));
+            filterList.Add(new Filter(8,"Sparkling","sparkling","",0,1,0, true));
+            filterList.Add(new Filter(9,"White Wine","whitewine","",0,1,0, true));
 
-            //(10,'France','fr','',0,2,0),
-            //(11,'Australia','au','',0,2,0),
-            //(12,'Italy','it','',0,2,0),
-            //(13,'Spain','es','',0,2,0),
-            //(14,'USA','us','',0,2,0),
-            //(15,'South Africa','sa','',0,2,0),
-            //(16,'Chile','ch','',0,2,0),
-            //(17,'Argentina ','ag','',0,2,0),
-            //(18,'China ','ch','',0,2,0),
-            //(19,'England ','gb','',0,2,0),
-            //(20,'Germany ','de','',0,2,0),
-            //(21,'Greece','gr','',0,2,0),
-            //(22,'Hungary ','hu','',0,2,0),
-            //(23,'Israel ','is','',0,2,0),
-            //(24,'New Zealand ','nz','',0,2,0),
-            //(25,'Portugal ','pt','',0,2,0),
+            //Country
+            filterList.Add(new Filter(10,"France","fr","",0,2,0, true));
+            filterList.Add(new Filter(11,"Australia","au","",0,2,0, true));
+            filterList.Add(new Filter(12,"Italy","it","",0,2,0, true));
+            filterList.Add(new Filter(13,"Spain","es","",0,2,0, true));
+            filterList.Add(new Filter(14,"USA","us","",0,2,0, true));
+            filterList.Add(new Filter(15,"South Africa","sa","",0,2,0, true));
+            filterList.Add(new Filter(16,"Chile","ch","",0,2,0, true));
+            filterList.Add(new Filter(17,"Argentina ","ag","",0,2,0, true));
+            filterList.Add(new Filter(18,"China ","ch","",0,2,0, true));
+            filterList.Add(new Filter(19,"England ","gb","",0,2,0, true));
+            filterList.Add(new Filter(20,"Germany ","de","",0,2,0, true));
+            filterList.Add(new Filter(21,"Greece","gr","",0,2,0, true));
+            filterList.Add(new Filter(22,"Hungary ","hu","",0,2,0, true));
+            filterList.Add(new Filter(23,"Israel ","is","",0,2,0, true));
+            filterList.Add(new Filter(24,"New Zealand ","nz","",0,2,0, true));
+            filterList.Add(new Filter(25,"Portugal ","pt","",0,2,0, true));
 
-            //(26,'Carignan','carignan','',0,3,0),
-            //(27,'Chardonnay','chardonnay','',0,3,0),
-            //(28,'Sauvignon Blanc','sauvignonblanc','',0,3,0),
-            //(29,'Shiraz','shiraz','',0,3,0),
-            //(30,'Syrah','syrah','',0,3,0),
+            //Grape Variety
+            filterList.Add(new Filter(26,"Carignan","carignan","",0,3,0, true));
+            filterList.Add(new Filter(27,"Chardonnay","chardonnay","",0,3,0, true));
+            filterList.Add(new Filter(28,"Sauvignon Blanc","sauvignonblanc","",0,3,0, true));
+            filterList.Add(new Filter(29,"Shiraz","shiraz","",0,3,0, true));
+            filterList.Add(new Filter(30,"Syrah","syrah","",0,3,0, true));
+            filterList.Add(new Filter(68,"Pinot Noir","pinotnoir","",0,3,0, true));
+            filterList.Add(new Filter(69,"Merlot","merlot","",0,3,0, true));
+            filterList.Add(new Filter(70,"Grenache","grenache","",0,3,0, true));
+            filterList.Add(new Filter(71,"Blend","blend","",0,3,0, true));
+            filterList.Add(new Filter(72,"Pinot Meunier","pinotmeunier","",0,3,0, true));
+            filterList.Add(new Filter(73,"Tempranillo","tempranillo","",0,3,0, true));
+            filterList.Add(new Filter(74,"Riesling","riesling","",0,3,0, true));
+            filterList.Add(new Filter(75,"Garnacha","garnacha","",0,3,0, true));
+            filterList.Add(new Filter(76,"Zinfandel","zinfandel","",0,3,0, true));
+            filterList.Add(new Filter(77,"Colombard","colombard","",0,3,0, true));
+            filterList.Add(new Filter(78,"White Grape Blend","whitegrapeBlend","",0,3,0, true));
+            filterList.Add(new Filter(79,"Glera","glera","",0,3,0, true));
+            filterList.Add(new Filter(80,"Pinot Blanco","pinotblanco","",0,3,0, true));
+            filterList.Add(new Filter(81,"Malbec","malbec","",0,3,0, true));
+            filterList.Add(new Filter(82,"Mourvèdre","mourvedre","",0,3,0, true));
+            filterList.Add(new Filter(83,"Pignoletto","pignoletto","",0,3,0, true));
+            filterList.Add(new Filter(84,"Cabernet Sauvignon","cabernetsauvignon","",0,3,0, true));
+            filterList.Add(new Filter(85,"Pinot Grigio","pinotgrigio","",0,3,0, true));
+            filterList.Add(new Filter(86,"Sémillon","semillon","",0,3,0, true));
+            filterList.Add(new Filter(87,"Macabeo","macabeo","",0,3,0, true));
+            filterList.Add(new Filter(88,"Parellada","parellada","",0,3,0, true));
+            filterList.Add(new Filter(89,"Xarello","xarello","",0,3,0, true));
+            filterList.Add(new Filter(90,"Sauvignon Gris","sauvignongris","",0,3,0, true));
 
-            //(31,'Bronze','bronze','',0,5,0),
-            //(32,'Gold','gold','',0,5,0),
-            //(33,'Silver','silver','',0,5,0),
+            //Awards
+            filterList.Add(new Filter(31,"Bronze","bronze","",0,5,0, true));
+            filterList.Add(new Filter(32,"Gold","gold","",0,5,0, true));
+            filterList.Add(new Filter(33,"Silver","silver","",0,5,0, true));
 
-            //(34,'FineWines','finewine','',0,6,0),
-            //(35,'Kosher','kosher','',0,6,0),
-            //(36,'Organic','organic','',0,6,0),
-            //(37,'Vegan','vegan','',0,6,0),
-            //(38,'Vegeterian','vegetarian','',0,6,0),
+            //Special Diet
+            filterList.Add(new Filter(34,"FineWines","finewine","",0,6,0, true));
+            filterList.Add(new Filter(35,"Kosher","kosher","",0,6,0, true));
+            filterList.Add(new Filter(36,"Organic","organic","",0,6,0, true));
+            filterList.Add(new Filter(37,"Vegan","vegan","",0,6,0, true));
+            filterList.Add(new Filter(38,"Vegeterian","vegetarian","",0,6,0, true));
 
-            //(39,'0.0','0.0','',0,14,0),
-            //(40,'5.5','5.5','',0,14,0),
-            //(41,'9.5','9.5','',0,14,0),
-            //(42,'10','10','',0,14,0),
-            //(43,'10.5','10.5','',0,14,0),
-            //(44,'11','11','',0,14,0),
-            //(45,'11.5','11.5','',0,14,0),
-            //(46,'12','12','',0,14,0),
-            //(47,'12.5','12.5','',0,14,0),(48,'13','13','',0,14,0),(49,'13.5','13.5','',0,14,0),(50,'14','14','',0,14,0),(51,'14.5','14.5','',0,14,0),(52,'California','californiaR','',0,8,0),(53,'Central Valley','centralvalleyR','',0,8,0),(54,'Champagne','champagneR','',0,8,0),(55,'Coastal Region','coastalR','',0,8,0),(56,'Emilia-Romagna','emiliaRomagnaR','',0,8,0),(57,'Languedoc-Roussillon','LanguedocroussillonR','',0,8,0),(58,'Marlborough','marlboroughR','',0,8,0),(59,'Mosel-Saar-Ruwer','moselsaarruwerR','',0,8,0),(60,'Rapel','rapelr','',0,8,0),(61,'Rioja','riojar','',0,8,0),(62,'South Eastern Australia','southeasternaustriar','',0,8,0),(63,'South Island','southislandr','',0,8,0),(64,'Trentino-Alto Adige','trentiloaltoadiger','',0,8,0),(65,'Veneto','venetor','',0,8,0),(66,'Vin de France','vindefrancer','',0,8,0),(67,'Western Cape','westercaper','',0,8,0),(68,'Pinot Noir','pinotnoir','',0,3,0),(69,'Merlot','merlot','',0,3,0),(70,'Grenache','grenache','',0,3,0),(71,'Blend','blend','',0,3,0),(72,'Pinot Meunier','pinotmeunier','',0,3,0),(73,'Tempranillo','tempranillo','',0,3,0),(74,'Riesling','riesling','',0,3,0),(75,'Garnacha','garnacha','',0,3,0),(76,'Zinfandel','zinfandel','',0,3,0),(77,'Colombard','colombard','',0,3,0),(78,'White Grape Blend','whitegrapeBlend','',0,3,0),(79,'Glera','glera','',0,3,0),(80,'Pinot Blanco','pinotblanco','',0,3,0),(81,'Malbec','malbec','',0,3,0),(82,'Mourvèdre','mourvedre','',0,3,0),(83,'Pignoletto','pignoletto','',0,3,0),(84,'Cabernet Sauvignon','cabernetsauvignon','',0,3,0),(85,'Pinot Grigio','pinotgrigio','',0,3,0),(86,'Sémillon','semillon','',0,3,0),(87,'Macabeo','macabeo','',0,3,0),(88,'Parellada','parellada','',0,3,0),(89,'Xarello','xarello','',0,3,0),(90,'Sauvignon Gris','sauvignongris','',0,3,0),(91,'Medium Dry','mediumdry','',0,9,0),(92,'Medium Bodied','mediumbodied','',0,9,0),(93,'Medium Sweet','mediumsweet','',0,9,0),(94,'Medium','medium','',0,9,0),(95,'Full or Robust','fullrobust','',0,9,0),(96,'Dry','dry','',0,9,0),(97,'Light and Fruity','lightandfruity','',0,9,0),(98,'Screwcap','screwcap','',0,12,0),(99,'Natural Cork','naturalcork','',0,12,0),(100,'Other','otherStopper','',0,12,0),(101,'Brancott Estate','Brancottestate','',0,10,0),(102,'First Cape','firstcape','',0,10,0),(103,'Barefoot','barefoot','',0,10,0),(104,'Castelmaure','castelmaure','',0,10,0),(105,'Jackson Estate','jacksonestate','',0,10,0),(106,'Casillero del Diablo','casillerodeldiablo','',0,10,0),(107,'Tesco','tesco','',0,10,0),(108,'Castillo de Albai','castillodealbai','',0,10,0),(109,'Lagunilla','lagunilla','',0,10,0),(110,'Gallo Family Vineyards','gallofamilyvineyards','',0,10,0),(111,'Faustino Rivero Ulecia','faustinoriveroulecia','',0,10,0),(112,'Blossom Hill','blossomhill','',0,10,0),(113,'Blue Nun','bluenun','',0,10,0),(114,'Dino','dino','',0,10,0),(115,'Bellingham','bellingham','',0,10,0),(116,'Grand Conseiller','grandconseiller','',0,10,0),(117,'Black Tower','blacktower','',0,10,0),(118,'Balfour','balfour','',0,10,0),(119,'Eisberg','Eisberg','',0,10,0),(120,'Rosewater Park','rosewaterpark','',0,10,0),(121,'Cono Sur Bicicleta','conosurbicicleta','',0,10,0),(122,'Catalonia','cataloniaR','',0,8,0),(123,'Freixenet','freixenet','',0,10,0);
+            //Region
+            filterList.Add(new Filter(52,"California","californiaR","",0,8,0, true));
+            filterList.Add(new Filter(53,"Central Valley","centralvalleyR","",0,8,0, true));
+            filterList.Add(new Filter(54,"Champagne","champagneR","",0,8,0, true));
+            filterList.Add(new Filter(55,"Coastal Region","coastalR","",0,8,0, true));
+            filterList.Add(new Filter(56,"Emilia-Romagna","emiliaRomagnaR","",0,8,0, true));
+            filterList.Add(new Filter(57,"Languedoc-Roussillon","LanguedocroussillonR","",0,8,0, true));
+            filterList.Add(new Filter(58,"Marlborough","marlboroughR","",0,8,0, true));
+            filterList.Add(new Filter(59,"Mosel-Saar-Ruwer","moselsaarruwerR","",0,8,0, true));
+            filterList.Add(new Filter(60,"Rapel","rapelr","",0,8,0, true));(61,"Rioja","riojar","",0,8,0, true));
+            filterList.Add(new Filter(62,"South Eastern Australia","southeasternaustriar","",0,8,0, true));
+            filterList.Add(new Filter(63,"South Island","southislandr","",0,8,0, true));
+            filterList.Add(new Filter(64,"Trentino-Alto Adige","trentiloaltoadiger","",0,8,0, true));
+            filterList.Add(new Filter(65,"Veneto","venetor","",0,8,0, true));
+            filterList.Add(new Filter(66,"Vin de France","vindefrancer","",0,8,0, true));
+            filterList.Add(new Filter(67,"Western Cape","westercaper","",0,8,0, true));
+
+            //Style
+            filterList.Add(new Filter(91,"Medium Dry","mediumdry","",0,9,0, true));
+            filterList.Add(new Filter(92,"Medium Bodied","mediumbodied","",0,9,0, true));
+            filterList.Add(new Filter(93,"Medium Sweet","mediumsweet","",0,9,0, true));
+            filterList.Add(new Filter(94,"Medium","medium","",0,9,0, true));
+            filterList.Add(new Filter(95,"Full or Robust","fullrobust","",0,9,0, true));
+            filterList.Add(new Filter(96,"Dry","dry","",0,9,0, true));
+            filterList.Add(new Filter(97,"Light and Fruity","lightandfruity","",0,9,0, true));
+
+            //FilterBrand
+            filterList.Add(new Filter(101,"Brancott Estate","Brancottestate","",0,10,0, true));
+            filterList.Add(new Filter(102,"First Cape","firstcape","",0,10,0, true));
+            filterList.Add(new Filter(103,"Barefoot","barefoot","",0,10,0, true));
+            filterList.Add(new Filter(104,"Castelmaure","castelmaure","",0,10,0, true));
+            filterList.Add(new Filter(105,"Jackson Estate","jacksonestate","",0,10,0, true));
+            filterList.Add(new Filter(106,"Casillero del Diablo","casillerodeldiablo","",0,10,0, true));
+            filterList.Add(new Filter(107,"Tesco","tesco","",0,10,0, true));
+            filterList.Add(new Filter(108,"Castillo de Albai","castillodealbai","",0,10,0, true));
+            filterList.Add(new Filter(109,"Lagunilla","lagunilla","",0,10,0, true));
+            filterList.Add(new Filter(110,"Gallo Family Vineyards","gallofamilyvineyards","",0,10,0, true));
+            filterList.Add(new Filter(111,"Faustino Rivero Ulecia","faustinoriveroulecia","",0,10,0, true));
+            filterList.Add(new Filter(112,"Blossom Hill","blossomhill","",0,10,0, true));
+            filterList.Add(new Filter(113,"Blue Nun","bluenun","",0,10,0, true));
+            filterList.Add(new Filter(114,"Dino","dino","",0,10,0, true));
+            filterList.Add(new Filter(115,"Bellingham","bellingham","",0,10,0, true));
+            filterList.Add(new Filter(116,"Grand Conseiller","grandconseiller","",0,10,0, true));
+            filterList.Add(new Filter(117,"Black Tower","blacktower","",0,10,0, true));
+            filterList.Add(new Filter(118,"Balfour","balfour","",0,10,0, true));
+            filterList.Add(new Filter(119,"Eisberg","Eisberg","",0,10,0, true));
+            filterList.Add(new Filter(120,"Rosewater Park","rosewaterpark","",0,10,0, true));
+            filterList.Add(new Filter(121,"Cono Sur Bicicleta","conosurbicicleta","",0,10,0, true));
+            filterList.Add(new Filter(122,"Catalonia","cataloniaR","",0,8,0, true));
+            filterList.Add(new Filter(123,"Freixenet","freixenet","",0,10,0, true));
+
+            //FilterStopper
+            filterList.Add(new Filter(98,"Screwcap","screwcap","",0,12,0, true));
+            filterList.Add(new Filter(99,"Natural Cork","naturalcork","",0,12,0, true));
+            filterList.Add(new Filter(100,"Other","otherStopper","",0,12,0, true));
 
 
-            filterList.Add(new filter(1, "Champagne", 1));
-
-
+            //FilterABV
+            filterList.Add(new Filter(39,"0.0","0.0","",0,14,0, true));
+            filterList.Add(new Filter(40,"5.5","5.5","",0,14,0, true));
+            filterList.Add(new Filter(41,"9.5","9.5","",0,14,0, true));
+            filterList.Add(new Filter(42,"10","10","",0,14,0, true));
+            filterList.Add(new Filter(43,"10.5","10.5","",0,14,0, true));
+            filterList.Add(new Filter(44,"11","11","",0,14,0, true));
+            filterList.Add(new Filter(45,"11.5","11.5","",0,14,0, true));
+            filterList.Add(new Filter(46,"12","12","",0,14,0, true));
+            filterList.Add(new Filter(47,"12.5","12.5","",0,14,0, true));
+            filterList.Add(new Filter(48,"13","13","",0,14,0, true));
+            filterList.Add(new Filter(49,"13.5","13.5","",0,14,0, true));
+            filterList.Add(new Filter(50,"14","14","",0,14,0, true));
+            filterList.Add(new Filter(51,"14.5","14.5","",0,14,0, true));
 
 
             int lineCounter = 0;

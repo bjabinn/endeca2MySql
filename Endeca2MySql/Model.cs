@@ -8,26 +8,30 @@ namespace Endeca2MySql
 {
     public class filterGroup
     {
-        public int id;
-        public string name;
+        public int Id;
+        public string Name;
 
-        public filterGroup(int _id, string _name)
+        public filterGroup(int id, string name)
         {
-            id = _id;
-            name = _name;
+            Id = id;
+            Name = name;
         }
     }
 
-    public class filter
+    public class Filter
     {
-        int id;
-        string name;
-        int filterGroupId;
+        public int Id;
+        public string Name;
+        public string Value;
+        public int FilterGroupId;
+        public bool FromFile;
 
-        public filter(int _id, string _name, int _filterGroupId) {
-            id = _id;
-            name = _name;
-            filterGroupId = _filterGroupId;
+        public Filter(int id, string name, string value, string empty1, int zero1, int filterGroupId, int zero2, bool fromFile) {
+            Id = id;
+            Name = name;
+            Value = value; 
+            FilterGroupId = filterGroupId;
+            FromFile = fromFile;
         }
     }
 
