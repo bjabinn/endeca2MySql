@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,25 +12,25 @@ namespace Endeca2MySql
         static void Main(string[] args)
         {
             int counterFilterGroupList = 15;
-            var filterGroupList = new List<filterGroup>();
+            var filterGroupList = new List<FilterGroup>();
 
-            filterGroupList.Add(new filterGroup(1, "Drink Type"));
-            filterGroupList.Add(new filterGroup(2, "Country"));
-            filterGroupList.Add(new filterGroup(3, "Grape Variety"));
-            filterGroupList.Add(new filterGroup(4, "Price Per Bottle"));
-            filterGroupList.Add(new filterGroup(5, "Awards"));
-            filterGroupList.Add(new filterGroup(6, "Special Diet"));
-            filterGroupList.Add(new filterGroup(7, "More Options"));
-            filterGroupList.Add(new filterGroup(8, "Region"));
-            filterGroupList.Add(new filterGroup(9, "Style"));
-            filterGroupList.Add(new filterGroup(10, "Brand"));
-            filterGroupList.Add(new filterGroup(11, "Producer"));
-            filterGroupList.Add(new filterGroup(12, "Stopper"));
-            filterGroupList.Add(new filterGroup(13, "Vinery"));
-            filterGroupList.Add(new filterGroup(14, "ABV"));
+            filterGroupList.Add(new FilterGroup(1, "Drink Type"));
+            filterGroupList.Add(new FilterGroup(2, "Country"));
+            filterGroupList.Add(new FilterGroup(3, "Grape Variety"));
+            filterGroupList.Add(new FilterGroup(4, "Price Per Bottle"));
+            filterGroupList.Add(new FilterGroup(5, "Awards"));
+            filterGroupList.Add(new FilterGroup(6, "Special Diet"));
+            filterGroupList.Add(new FilterGroup(7, "More Options"));
+            filterGroupList.Add(new FilterGroup(8, "Region"));
+            filterGroupList.Add(new FilterGroup(9, "Style"));
+            filterGroupList.Add(new FilterGroup(10, "Brand"));
+            filterGroupList.Add(new FilterGroup(11, "Producer"));
+            filterGroupList.Add(new FilterGroup(12, "Stopper"));
+            filterGroupList.Add(new FilterGroup(13, "Vinery"));
+            filterGroupList.Add(new FilterGroup(14, "ABV"));
 
 
-            int counterFilter = 0
+            int counterFilter = 0;
             var filterList = new List<Filter>();
 
             //Drink Type
@@ -176,13 +177,37 @@ namespace Endeca2MySql
             filterList.Add(new Filter(51,"14.5","14.5","",0,14,0, true));
 
 
-            int lineCounter = 0;
+            var lineCounter = 0;
             string line;
 
-
-            System.IO.StreamReader file = new System.IO.StreamReader(@"WineEndeca.txt");
+            var file = new System.IO.StreamReader(@"WineEndeca.txt");
             while ((line = file.ReadLine()) != null)
             {
+
+                if (line.Contains(" Record") )
+                {
+                    if (lineCounter != 0)
+                    {
+                        //guardar newProduct generado en la lectura anterior a fichero
+                    }
+                    var newProduct = new Product();
+
+                    var partsOfLine = line.Split(':');
+                    switch (partsOfLine[0])
+                    {
+                        case "P_Description":
+                            newProduct.Description = partsOfLine[1];
+                            break;
+                        case "P_History":
+                            newProduct.History = partsOfLine[1];
+                            break;
+                        case "P_Images":
+                            newProduct.Images = partsOfLine[1];
+                            break;
+
+                    }
+
+                }
 
                 lineCounter++;
             }
