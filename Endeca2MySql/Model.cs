@@ -79,5 +79,17 @@ namespace Endeca2MySql
         }
     }
 
+    public class Product_filter
+    {
+        public int ProductId;
+        public int FilterId;
+
+        public Product_filter(int productId, int filterId)
+        {
+            ProductId = productId;
+            FilterId = filterId;
+        }
+    }
+
 
 }

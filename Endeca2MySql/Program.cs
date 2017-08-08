@@ -174,10 +174,50 @@ namespace Endeca2MySql
             filterList.Add(new Filter(51, "14.5", "14.5", "", 0, 14, 0, true));
         }
 
-        private static void WriteObjectToFile(Product producto)
+        private static int InsertFilterIfNecessary(List<Filter> filterList, int filterGroupId, string valueToFind, ref int counterFilter)
         {
-            Console.WriteLine(producto.Tpnb);
+            var i = 0;
+            var encontrado= false;
+
+            while (encontrado == false && i < filterList.Count)
+            {
+                if (filterGroupId == filterList[i].FilterGroupId && filterList[i].Name == valueToFind.Trim())
+                {
+                    encontrado = true;
+                }
+                else
+                {
+                    i++;
+                }
+            }
+            if (encontrado == false)
+            {
+                filterList.Add(new Filter(++counterFilter, valueToFind, valueToFind.Replace(" ",""), "", 0, filterGroupId, 0, false));
+                return -1;
+            }
+            return i;
         }
+
+        private static void WriteProductsToFile()
+        {
+            System.IO.StreamWriter file = new System.IO.StreamWriter("products.txt" + DateTime.UtcNow.Ticks, false);
+
+
+            file.WriteLine("");
+
+            file.Close();
+        }
+
+        private static void WriteFiltersToFile()
+        {
+            System.IO.StreamWriter file = new System.IO.StreamWriter("filters.txt" + DateTime.UtcNow.Ticks, false);
+
+
+            file.WriteLine("");
+
+            file.Close();
+        }
+
         static void Main(string[] args)
         {
             int counterFilterGroupList = 15;
@@ -203,7 +243,6 @@ namespace Endeca2MySql
                 {
                     if (lineCounter != 0)
                     {
-                        WriteObjectToFile(newProduct);
                         newProduct = new Product();
                     }
                     newProduct.Id = counterProduct++;
@@ -248,26 +287,38 @@ namespace Endeca2MySql
                             newProduct.IsNewProduct = Convert.ToBoolean(partsOfLine[1]);
                             break;
                         case "ABV":
-
+                            InsertFilterIfNecessary(filterList, 14, partsOfLine[1], ref counterFilter);
                             break;
                         case "Drink Type":
+                            InsertFilterIfNecessary(filterList, 1, partsOfLine[1], ref counterFilter);
                             break;
                         case "Country":
+                            InsertFilterIfNecessary(filterList, 2, partsOfLine[1], ref counterFilter);
                             break;
                         case "Region":
+                            InsertFilterIfNecessary(filterList, 8, partsOfLine[1], ref counterFilter);
                             break;
                         case "Grape Variety":
+                            InsertFilterIfNecessary(filterList, 3, partsOfLine[1], ref counterFilter);
                             break;
                         case "Style":
+                            InsertFilterIfNecessary(filterList, 9, partsOfLine[1], ref counterFilter);
                             break;
                         case "Brand":
+                            InsertFilterIfNecessary(filterList, 10, partsOfLine[1], ref counterFilter);
                             break;
                         case "Producer":
+                            InsertFilterIfNecessary(filterList, 11, partsOfLine[1], ref counterFilter);
                             break;
-                        case "Stopper": break;
-                        case "Vintage": break;
-                        case "Winery": break;
-                           
+                        case "Stopper":
+                            InsertFilterIfNecessary(filterList, 12, partsOfLine[1], ref counterFilter);
+                            break;
+                        case "Vintage":
+                            InsertFilterIfNecessary(filterList, 15, partsOfLine[1], ref counterFilter);
+                            break;
+                        case "Winery":
+                            InsertFilterIfNecessary(filterList, 13, partsOfLine[1], ref counterFilter);
+                            break;
                     }
 
                 }
@@ -277,6 +328,8 @@ namespace Endeca2MySql
 
             file.Close();
             Console.WriteLine("There were {0} lines.", lineCounter);
+            WriteFiltersToFile();
+            WriteProductsToFile();
             Console.ReadLine();
         }
     }
