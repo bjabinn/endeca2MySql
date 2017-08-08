@@ -174,7 +174,9 @@ namespace Endeca2MySql
             filterList.Add(new Filter(51, "14.5", "14.5", "", 0, 14, 0, true));
         }
 
-        private static int InsertFilterIfNecessary(List<Filter> filterList, int filterGroupId, string valueToFind, ref int counterFilter)
+        private static void InsertFilterAndFilterProduct(List<Filter> filterList, int filterGroupId, 
+                                                   string valueToFind, ref int counterFilter,
+                                                   int productId, List<FilterProduct> filterProductList )
         {
             var i = 0;
             var encontrado= false;
@@ -192,26 +194,54 @@ namespace Endeca2MySql
             }
             if (encontrado == false)
             {
-                filterList.Add(new Filter(++counterFilter, valueToFind, valueToFind.Replace(" ",""), "", 0, filterGroupId, 0, false));
-                return -1;
+                filterList.Add(new Filter(++counterFilter, valueToFind, valueToFind.Replace(" ", ""), "", 0, filterGroupId, 0, false));
+                filterProductList.Add(new FilterProduct(productId, counterFilter, false));
             }
-            return i;
+            else
+            {
+                filterProductList.Add(new FilterProduct(productId, i, false));
+            }
+            
         }
 
-        private static void WriteProductsToFile()
+        private static void WriteProductsToFile(List<Product> productList)
         {
             System.IO.StreamWriter file = new System.IO.StreamWriter("products.txt" + DateTime.UtcNow.Ticks, false);
 
-
-            file.WriteLine("");
+            foreach (var elem in productList)
+            {
+                file.WriteLine(elem.Id + ";" + elem.Description + ";" + elem.History + ";" + elem.Tpnb);
+            }
 
             file.Close();
         }
 
-        private static void WriteFiltersToFile()
+        private static void WriteFiltersToFile(List<Filter> filterList )
         {
             System.IO.StreamWriter file = new System.IO.StreamWriter("filters.txt" + DateTime.UtcNow.Ticks, false);
 
+            foreach (var elem in filterList)
+            {
+                if (!elem.FromFile)
+                {
+                    file.WriteLine(elem.Id + ";" + elem.Name + ";" + elem.Value + ";" + elem.FilterGroupId);
+                }
+            }
+
+            file.Close();
+        }
+
+        private static void WriteFiltersProductToFile(List<FilterProduct> filterProductList)
+        {
+            System.IO.StreamWriter file = new System.IO.StreamWriter("FiltersProducts.txt" + DateTime.UtcNow.Ticks, false);
+
+            foreach (var elem in filterProductList)
+            {
+                if (!elem.FromFile)
+                {
+                    file.WriteLine(elem.FilterId + ";" + elem.ProductId);
+                }
+            }
 
             file.WriteLine("");
 
@@ -220,12 +250,13 @@ namespace Endeca2MySql
 
         static void Main(string[] args)
         {
-            int counterFilterGroupList = 15;
             int counterFilter = 124;
             int counterProduct = 1;
 
+            var productList = new List<Product>();
             var filterGroupList = new List<FilterGroup>();
             var filterList = new List<Filter>();
+            var filterProductList = new List<FilterProduct>();
 
             InsertValuesInFilterGroup(filterGroupList);
 
@@ -243,6 +274,7 @@ namespace Endeca2MySql
                 {
                     if (lineCounter != 0)
                     {
+                        productList.Add(newProduct);
                         newProduct = new Product();
                     }
                     newProduct.Id = counterProduct++;
@@ -287,37 +319,37 @@ namespace Endeca2MySql
                             newProduct.IsNewProduct = Convert.ToBoolean(partsOfLine[1]);
                             break;
                         case "ABV":
-                            InsertFilterIfNecessary(filterList, 14, partsOfLine[1], ref counterFilter);
+                            InsertFilterAndFilterProduct(filterList, 14, partsOfLine[1], ref counterFilter, newProduct.Id, filterProductList);
                             break;
                         case "Drink Type":
-                            InsertFilterIfNecessary(filterList, 1, partsOfLine[1], ref counterFilter);
+                            InsertFilterAndFilterProduct(filterList, 1, partsOfLine[1], ref counterFilter, newProduct.Id, filterProductList);
                             break;
                         case "Country":
-                            InsertFilterIfNecessary(filterList, 2, partsOfLine[1], ref counterFilter);
+                            InsertFilterAndFilterProduct(filterList, 2, partsOfLine[1], ref counterFilter, newProduct.Id, filterProductList);
                             break;
                         case "Region":
-                            InsertFilterIfNecessary(filterList, 8, partsOfLine[1], ref counterFilter);
+                            InsertFilterAndFilterProduct(filterList, 8, partsOfLine[1], ref counterFilter, newProduct.Id, filterProductList);
                             break;
                         case "Grape Variety":
-                            InsertFilterIfNecessary(filterList, 3, partsOfLine[1], ref counterFilter);
+                            InsertFilterAndFilterProduct(filterList, 3, partsOfLine[1], ref counterFilter, newProduct.Id, filterProductList);
                             break;
                         case "Style":
-                            InsertFilterIfNecessary(filterList, 9, partsOfLine[1], ref counterFilter);
+                            InsertFilterAndFilterProduct(filterList, 9, partsOfLine[1], ref counterFilter, newProduct.Id, filterProductList);
                             break;
                         case "Brand":
-                            InsertFilterIfNecessary(filterList, 10, partsOfLine[1], ref counterFilter);
+                            InsertFilterAndFilterProduct(filterList, 10, partsOfLine[1], ref counterFilter, newProduct.Id, filterProductList);
                             break;
                         case "Producer":
-                            InsertFilterIfNecessary(filterList, 11, partsOfLine[1], ref counterFilter);
+                            InsertFilterAndFilterProduct(filterList, 11, partsOfLine[1], ref counterFilter, newProduct.Id, filterProductList);
                             break;
                         case "Stopper":
-                            InsertFilterIfNecessary(filterList, 12, partsOfLine[1], ref counterFilter);
+                            InsertFilterAndFilterProduct(filterList, 12, partsOfLine[1], ref counterFilter, newProduct.Id, filterProductList);
                             break;
                         case "Vintage":
-                            InsertFilterIfNecessary(filterList, 15, partsOfLine[1], ref counterFilter);
+                            InsertFilterAndFilterProduct(filterList, 15, partsOfLine[1], ref counterFilter, newProduct.Id, filterProductList);
                             break;
                         case "Winery":
-                            InsertFilterIfNecessary(filterList, 13, partsOfLine[1], ref counterFilter);
+                            InsertFilterAndFilterProduct(filterList, 13, partsOfLine[1], ref counterFilter, newProduct.Id, filterProductList);
                             break;
                     }
 
@@ -328,8 +360,9 @@ namespace Endeca2MySql
 
             file.Close();
             Console.WriteLine("There were {0} lines.", lineCounter);
-            WriteFiltersToFile();
-            WriteProductsToFile();
+            WriteFiltersToFile(filterList);
+            WriteProductsToFile(productList);
+            WriteFiltersProductToFile(filterProductList);
             Console.ReadLine();
         }
     }

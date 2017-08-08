@@ -1,0 +1,1457 @@
+125;  Echo Falls  ;EchoFalls;10
+126;  Mission Bell ;MissionBell;11
+127;  2015 ;2015;15
+128;  Joe Alioto ;JoeAlioto;13
+129;  Sparkling Wine ;SparklingWine;1
+130;  Bio Bio Valley ;BioBioValley;8
+131;  Cono Sur ;ConoSur;10
+132;  Cono Sur Winery ;ConoSurWinery;11
+133;  NV ;NV;15
+134;  Adolfo Hurtado ;AdolfoHurtado;13
+135;  Moët & Chandon ;Moët&Chandon;10
+136;  Moët & Chandon ;Moët&Chandon;11
+137;  NV ;NV;15
+138;  Benoit Gouez ;BenoitGouez;13
+139;  Jacktone Ranch ;JacktoneRanch;10
+140;  McManis Family Vineyards ;McManisFamilyVineyards;11
+141;  2013 ;2013;15
+142;  Julian Grubb ;JulianGrubb;13
+143;  Flagstone ;Flagstone;10
+144;  Accolade Wines ;AccoladeWines;11
+145;  2011 ;2011;15
+146;  Bruce Jack ;BruceJack;13
+147;  Germany ;Germany;2
+148;  Langguth ;Langguth;11
+149;  2016 ;2016;15
+150;  Wolfgang Barzen ;WolfgangBarzen;13
+151;  Tuscany ;Tuscany;8
+152;  Canaiolo ;Canaiolo;3
+153;  Ciliegiolo ;Ciliegiolo;3
+154;  Sangiovese ;Sangiovese;3
+155;  Poggio al Sale ;PoggioalSale;10
+156;  Piccini ;Piccini;11
+157;  2015 ;2015;15
+158;  Antonella Conti ;AntonellaConti;13
+159;  Worcester ;Worcester;8
+160;  Home of Origin Wine (Pty) Ltd. ;HomeofOriginWine(Pty)Ltd.;11
+161;  2016 ;2016;15
+162;  Johan Gerber ;JohanGerber;13
+163;  Sangiovese ;Sangiovese;3
+164;  Vino Lascito ;VinoLascito;10
+165;  Off- Piste Wines ;Off-PisteWines;11
+166;  2015 ;2015;15
+167;  Scipione Giuliani ;ScipioneGiuliani;13
+168;  Origin ;Origin;10
+169;  Home of Origin Wine (Pty) Ltd. Winemaker Hermias Hugo ;HomeofOriginWine(Pty)Ltd.WinemakerHermiasHugo;11
+170;  2015 ;2015;15
+171;  Hermias Hugo ;HermiasHugo;13
+172;  New Zealand ;NewZealand;2
+173;  Mud House ;MudHouse;10
+174;  Accolade Wines ;AccoladeWines;11
+175;  2016 ;2016;15
+176;  Nadine Worley ;NadineWorley;13
+177;  Dark Horse ;DarkHorse;10
+178;  Dark Horse Wines ;DarkHorseWines;11
+179;  2015 ;2015;15
+180;  Beth Liston ;BethListon;13
+181;  Heidsieck & Co ;Heidsieck&Co;10
+182;  Vranken Pommery Monopole ;VrankenPommeryMonopole;11
+183;  NV ;NV;15
+184;  Dominique Pichart ;DominiquePichart;13
+185;  Corvina ;Corvina;3
+186;  Corvinone ;Corvinone;3
+187;  Rondinella ;Rondinella;3
+188;  Cantina di Valpantena ;CantinadiValpantena;11
+189;  2015 ;2015;15
+190;  Michele Peroni ;MichelePeroni;13
+191;  Burgundy ;Burgundy;8
+192;  Blason de Bourgogne ;BlasondeBourgogne;10
+193;  Blason de Bourgogne ;BlasondeBourgogne;11
+194;  2015 ;2015;15
+195;  Georges Brichon ;GeorgesBrichon;13
+196;  Elqui Valley ;ElquiValley;8
+197;  La Casita ;LaCasita;10
+198;  Vina Falernia S.A ;VinaFalerniaS.A;11
+199;  2014 ;2014;15
+200;  Giorgio Flessati ;GiorgioFlessati;13
+201;  Swartland ;Swartland;8
+202;  Home of Origin Wine (Pty) Ltd. ;HomeofOriginWine(Pty)Ltd.;11
+203;  2016 ;2016;15
+204;  Hermias Hugo ;HermiasHugo;13
+205;  Abruzzo ;Abruzzo;8
+206;  Pecorino ;Pecorino;3
+207;  Codiec Citra ;CodiecCitra;11
+208;  2016 ;2016;15
+209;  Pasquale Caldora and Lino Olivastri ;PasqualeCaldoraandLinoOlivastri;13
+210;  European Union ;EuropeanUnion;2
+211;  Reh Kendermann GmbH ;RehKendermannGmbH;11
+212;  2016 ;2016;15
+213;  Philipp Closheim ;PhilippClosheim;13
+214;  Charles de Marques ;CharlesdeMarques;10
+215;  Didier Chopin ;DidierChopin;11
+216;  NV ;NV;15
+217;  Didier Chopin ;DidierChopin;13
+218;  Louis M Martini ;LouisMMartini;11
+219;  2013 ;2013;15
+220;  Michael Eddy ;MichaelEddy;13
+221;  Echo Falls  ;EchoFalls;10
+222;  Mission Bell ;MissionBell;11
+223;  2015 ;2015;15
+224;  Joe Alioto ;JoeAlioto;13
+225;  Muscadet de Bourgogne ;MuscadetdeBourgogne;3
+226;  Lacheteau ;Lacheteau;11
+227;  2016 ;2016;15
+228;  9 ;9;14
+229;  Moscato ;Moscato;3
+230;  Barefoot Cellars ;BarefootCellars;11
+231;  NV ;NV;15
+232;  Jen Wall ;JenWall;13
+233;  Bio Bio ;BioBio;8
+234;  Cono Sur ;ConoSur;11
+235;  2016 ;2016;15
+236;  Matias Rios ;MatiasRios;13
+237;  Cono Sur ;ConoSur;11
+238;  2016 ;2016;15
+239;  Adolfo Hurtado ;AdolfoHurtado;13
+240;  Venezie ;Venezie;8
+241;  Cantina Di Monteforte ;CantinaDiMonteforte;11
+242;  2016 ;2016;15
+243;  Gaetano Tobin ;GaetanoTobin;13
+244;  Terret gris ;Terretgris;3
+245;  Jeanjean ;Jeanjean;11
+246;  Synthetic Cork;SyntheticCork;12
+247;  2016 ;2016;15
+248;  The Rhone Valley ;TheRhoneValley;8
+249;  Counoise ;Counoise;3
+250;  Moncigale - Groupe Marie Brizard Wine & Spirits ;Moncigale-GroupeMarieBrizardWine&Spirits;11
+251;  2015 ;2015;15
+252;  Pierre Martin ;PierreMartin;13
+253;  Burgundy ;Burgundy;8
+254;  Union des Viticulteurs de Chablis ;UniondesViticulteursdeChablis;11
+255;  2014 ;2014;15
+256;  Cyril Gros  ;CyrilGros;13
+257;  Moët & Chandon ;Moët&Chandon;10
+258;  Moet & Chandon ;Moet&Chandon;11
+259;  NV ;NV;15
+260;  Benoit Gouez ;BenoitGouez;13
+261;  Sparkling Wine ;SparklingWine;1
+262;  England ;England;2
+263;  Chapel Down ;ChapelDown;10
+264;  Chapel Down ;ChapelDown;11
+265;  NV ;NV;15
+266;  Josh Donaghay-Spire ;JoshDonaghay-Spire;13
+267;  Bordeaux ;Bordeaux;8
+268;  Yvon Mau ;YvonMau;11
+269;  2016 ;2016;15
+270;  Pierre Viellefosse ;PierreViellefosse;13
+271;  Piedmont ;Piedmont;8
+272;  Nebbiolo ;Nebbiolo;3
+273;  Fratelli Martini ;FratelliMartini;11
+274;  2014 ;2014;15
+275;  Massimo Marasso ;MassimoMarasso;13
+276;  Hardys ;Hardys;10
+277;  Accolade Wines ;AccoladeWines;11
+278;  2016 ;2016;15
+279;  Paul Lapsley ;PaulLapsley;13
+280;  Graciano ;Graciano;3
+281;  Mazuelo ;Mazuelo;3
+282;  Castillo San Lorenzo ;CastilloSanLorenzo;10
+283;  Criadores de Rioja ;CriadoresdeRioja;11
+284;  2010 ;2010;15
+285;  Paloma Redondo ;PalomaRedondo;13
+286;  New Zealand ;NewZealand;2
+287;  Brancott Estate ;BrancottEstate;11
+288;  2016 ;2016;15
+289;  Patrick Materman ;PatrickMaterman;13
+290;  Chianti ;Chianti;8
+291;  Sangiovese ;Sangiovese;3
+292;  Piccini ;Piccini;11
+293;  2015 ;2015;15
+294;  Antonella Conti ;AntonellaConti;13
+295;  Cinsault ;Cinsault;3
+296;  Gem ;Gem;10
+297;  Jeanjean ;Jeanjean;11
+298;  2016 ;2016;15
+299;  Moët & Chandon ;Moët&Chandon;10
+300;  Moet & Chandon ;Moet&Chandon;11
+301;  NV ;NV;15
+302;  Benoît Gouez ;BenoîtGouez;13
+303;  Tuscany, Basilicata, Veneto, Sicily ;Tuscany,Basilicata,Veneto,Sicily;8
+304;  Aglianico ;Aglianico;3
+305;  Nero d'Avola ;Nerod'Avola;3
+306;  Sangiovese ;Sangiovese;3
+307;  Piccini ;Piccini;10
+308;  Piccini Srl ;PicciniSrl;11
+309;  2011 ;2011;15
+310;  Antonella Conti ;AntonellaConti;13
+311;  New Zealand ;NewZealand;2
+312;  Hawkes Bay ;HawkesBay;8
+313;  Indevin ;Indevin;11
+314;  2016 ;2016;15
+315;  James Hillard ;JamesHillard;13
+316;  Loire ;Loire;8
+317;  Famille Castel ;FamilleCastel;10
+318;  Famille Castel ;FamilleCastel;11
+319;  2015 ;2015;15
+320;  Cedric Jenin ;CedricJenin;13
+321;  Germany ;Germany;2
+322;  Red Grape Blend ;RedGrapeBlend;3
+323;  Blossom Hill ;BlossomHill;11
+324;  NV ;NV;15
+325;  F. Eberhard ;F.Eberhard;13
+326;  Lanson ;Lanson;10
+327;  Champagne Lanson ;ChampagneLanson;11
+328;  NV ;NV;15
+329;  Hervé Dantan ;HervéDantan;13
+330;  Beaujolais ;Beaujolais;8
+331;  Gamay ;Gamay;3
+332;  Patrick Chodot ;PatrickChodot;10
+333;  Castel ;Castel;11
+334;  Synthetic Cork;SyntheticCork;12
+335;  2015 ;2015;15
+336;  Thomas Castet ;ThomasCastet;13
+337;  South Australia ;SouthAustralia;8
+338;  Barossa Ink ;BarossaInk;10
+339;  Accolade Wines ;AccoladeWines;11
+340;  2015 ;2015;15
+341;  Yellow Tail ;YellowTail;10
+342;  Casella Wines ;CasellaWines;11
+343;  Synthetic Cork;SyntheticCork;12
+344;  2016 ;2016;15
+345;  John Casella ;JohnCasella;13
+346;  Western Australia ;WesternAustralia;8
+347;  Semillon ;Semillon;3
+348;  Winton Reserve  ;WintonReserve;10
+349;  PLB Wines ;PLBWines;11
+350;  2016 ;2016;15
+351;  N/A ;N/A;13
+352;  Loire ;Loire;8
+353;  Fournier Pere et Fils ;FournierPereetFils;11
+354;  2016 ;2016;15
+355;  Claude Fournier ;ClaudeFournier;13
+356;  Bellingham ;Bellingham;11
+357;  2015 ;2015;15
+358;  Niel Groenewald ;NielGroenewald;13
+359;  Germany ;Germany;2
+360;  Rheinhessen ;Rheinhessen;8
+361;  Pinot Blanc ;PinotBlanc;3
+362;  Reh Kendermann ;RehKendermann;10
+363;  Reh Kendermann GmbH ;RehKendermannGmbH;11
+364;  2016 ;2016;15
+365;  Philipp Closheim ;PhilippClosheim;13
+366;  7 ;7;14
+367;  Sparkling Wine ;SparklingWine;1
+368;  Piedmont ;Piedmont;8
+369;  Muscat ;Muscat;3
+370;  Fratelli Martini Secondo Luigi S.p.A. ;FratelliMartiniSecondoLuigiS.p.A.;11
+371;  NV ;NV;15
+372;  Massimo Marasso ;MassimoMarasso;13
+373;  Sparkling Wine ;SparklingWine;1
+374;  Mionetto  ;Mionetto;10
+375;  Mionetto ;Mionetto;11
+376;  NV ;NV;15
+377;  New Zealand ;NewZealand;2
+378;  Central Otago ;CentralOtago;8
+379;  Villa Maria ;VillaMaria;11
+380;  2015 ;2015;15
+381;  Nick Picone ;NickPicone;13
+382;  Bordeaux ;Bordeaux;8
+383;  Chateau Boyd Cantenac ;ChateauBoydCantenac;11
+384;  2012 ;2012;15
+385;  Lucian Guillenet ;LucianGuillenet;13
+386;  Southwest ;Southwest;8
+387;  LGCF ;LGCF;11
+388;  2015 ;2015;15
+389;  Bertrand Straebler ;BertrandStraebler;13
+390;  Louis de Camponac ;LouisdeCamponac;10
+391;  LES GRANDS CHAIS DE FRANCE GROUP ;LESGRANDSCHAISDEFRANCEGROUP;11
+392;  2016 ;2016;15
+393;  Adelaide Hills ;AdelaideHills;8
+394;  Wolf Blass ;WolfBlass;10
+395;  Wolf Blass Wines ;WolfBlassWines;11
+396;  2008 ;2008;15
+397;  Chris Hatcher ;ChrisHatcher;13
+398;  South Australia ;SouthAustralia;8
+399;  Viognier ;Viognier;3
+400;  Yalumba ;Yalumba;10
+401;  Yalumba ;Yalumba;11
+402;  2015 ;2015;15
+403;  Southwest ;Southwest;8
+404;  Mauzac ;Mauzac;3
+405;  Muscadelle ;Muscadelle;3
+406;  Castel ;Castel;11
+407;  Synthetic Cork;SyntheticCork;12
+408;  2016 ;2016;15
+409;  Isabelle Decup ;IsabelleDecup;13
+410;  Lelieur ;Lelieur;10
+411;  Champagne Chassenay d'Arce ;ChampagneChassenayd'Arce;11
+412;  NV ;NV;15
+413;  Brice Becard ;BriceBecard;13
+414;  20 ;20;14
+415;  Portugal ;Portugal;2
+416;  Douro ;Douro;8
+417;  Tinta Barroca ;TintaBarroca;3
+418;  Tinta Cão ;TintaCão;3
+419;  Tinta Roriz ;TintaRoriz;3
+420;  Touriga Franca ;TourigaFranca;3
+421;  Touriga Nacional ;TourigaNacional;3
+422;  Symington Family Estates ;SymingtonFamilyEstates;11
+423;  1997 ;1997;15
+424;  Manuel Rocha ;ManuelRocha;13
+425;  Israel ;Israel;2
+426;  Barkan Classic ;BarkanClassic;10
+427;  Barkan Winery ;BarkanWinery;11
+428;  2016 ;2016;15
+429;  Ed Salzberg ;EdSalzberg;13
+430;  Burgundy ;Burgundy;8
+431;  Gamay ;Gamay;3
+432;  Beaujolais ;Beaujolais;10
+433;  Cave Château des Loges  ;CaveChâteaudesLoges;11
+434;  Synthetic Cork;SyntheticCork;12
+435;  2015 ;2015;15
+436;  Cabernet Franc ;CabernetFranc;3
+437;  Grand Vin De Bordeaux ;GrandVinDeBordeaux;10
+438;  Les Vignobles Dignac ;LesVignoblesDignac;11
+439;  2012 ;2012;15
+440;  Stephane Dignac ;StephaneDignac;13
+441;  Loire ;Loire;8
+442;  Chenin Blanc ;CheninBlanc;3
+443;  LACHETEAU SAS ;LACHETEAUSAS;11
+444;  2015 ;2015;15
+445;  Serge deBucy ;SergedeBucy;13
+446;  Stellenbosch ;Stellenbosch;8
+447;  Viognier ;Viognier;3
+448;  Stellenbosch ;Stellenbosch;10
+449;  Home of Origin Wine Pty Ltd. ;HomeofOriginWinePtyLtd.;11
+450;  2017 ;2017;15
+451;  Johan Gerber ;JohanGerber;13
+452;  Rosemount ;Rosemount;10
+453;  Treasury Wine Estates ;TreasuryWineEstates;11
+454;  2016 ;2016;15
+455;  Randall Cummins ;RandallCummins;13
+456;  Olifantsriver ;Olifantsriver;8
+457;  Kumala ;Kumala;10
+458;  Accolade Wines ;AccoladeWines;11
+459;  2016 ;2016;15
+460;  Accolade Wines ;AccoladeWines;13
+461;  Maipo ;Maipo;8
+462;  Las Cometas ;LasCometas;10
+463;  Valdivieso ;Valdivieso;11
+464;  2013 ;2013;15
+465;  Brett Jackson ;BrettJackson;13
+466;  9 ;9;14
+467;  UK ;UK;2
+468;  White Zinfandel ;WhiteZinfandel;3
+469;  E&J Gallo Winery ;E&JGalloWinery;11
+470;  NV ;NV;15
+471;  Cal Dennison ;CalDennison;13
+472;  First Cape Vineyards ;FirstCapeVineyards;11
+473;  2017 ;2017;15
+474;  David Smit ;DavidSmit;13
+475;  Kumala ;Kumala;10
+476;  Accolade Wines ;AccoladeWines;11
+477;  2016 ;2016;15
+478;  Ben Jordaan ;BenJordaan;13
+479;  Burgundy ;Burgundy;8
+480;  Les Sentiers de Belene ;LesSentiersdeBelene;10
+481;  Domaine Chanson ;DomaineChanson;11
+482;  2015 ;2015;15
+483;  Jean-Pierre Confuron ;Jean-PierreConfuron;13
+484;  De Bortoli Wines ;DeBortoliWines;11
+485;  2013 ;2013;15
+486;  Julie Mortlock ;JulieMortlock;13
+487;  Sparkling Wine ;SparklingWine;1
+488;  Prosecco ;Prosecco;8
+489;  CR-CAMPEGINE  ;CR-CAMPEGINE;11
+490;  NV ;NV;15
+491;  New Zealand ;NewZealand;2
+492;  Private Bin ;PrivateBin;10
+493;  Villa Maria ;VillaMaria;11
+494;  2016 ;2016;15
+495;  Nick Picone ;NickPicone;13
+496;  8 ;8;14
+497;  Sparkling Wine ;SparklingWine;1
+498;  Moscato ;Moscato;3
+499;  Barefoot Bubbly ;BarefootBubbly;10
+500;  Barefoot Cellars ;BarefootCellars;11
+501;  NV ;NV;15
+502;  Jen Wall ;JenWall;13
+503;  Concha y Toro ;ConchayToro;10
+504;  Concha Y Toro ;ConchaYToro;11
+505;  2016 ;2016;15
+506;  Marcelo Gangas ;MarceloGangas;13
+507;  Viognier ;Viognier;3
+508;  Higgovale Heights ;HiggovaleHeights;10
+509;  Spier ;Spier;11
+510;  2014 ;2014;15
+511;  Johann Jordaan ;JohannJordaan;13
+512;  Abruzzo ;Abruzzo;8
+513;  Montepulciano ;Montepulciano;3
+514;  Codice Citra ;CodiceCitra;11
+515;  2015 ;2015;15
+516;  Pasquale Caldora ;PasqualeCaldora;13
+517;  Grupo Faustino ;GrupoFaustino;11
+518;  2016 ;2016;15
+519;  Rodrigo Espinosa ;RodrigoEspinosa;13
+520;  Kumala ;Kumala;10
+521;  Constellation Wines ;ConstellationWines;11
+522;  2016 ;2016;15
+523;  Bruce Jack ;BruceJack;13
+524;  Marques del Atrio ;MarquesdelAtrio;11
+525;  2014 ;2014;15
+526;  Rodrigo Espinosa ;RodrigoEspinosa;13
+527;  Viura ;Viura;3
+528;  Faustino Rivero Ulecia ;FaustinoRiveroUlecia;11
+529;  2016 ;2016;15
+530;  Rodrigo Espinosa ;RodrigoEspinosa;13
+531;  Bordeaux ;Bordeaux;8
+532;  Cabernet Franc ;CabernetFranc;3
+533;  Calvet ;Calvet;10
+534;  Les Grands Chais De France Group ;LesGrandsChaisDeFranceGroup;11
+535;  2016 ;2016;15
+536;  Germany ;Germany;2
+537;  Rheinhessen ;Rheinhessen;8
+538;  I Heart ;IHeart;10
+539;  Henkell & Co. Sektkellerei KG ;Henkell&Co.SektkellereiKG;11
+540;  NV ;NV;15
+541;  Garganega Bianca ;GarganegaBianca;3
+542;  Cantina di Monteforte ;CantinadiMonteforte;11
+543;  2015 ;2015;15
+544;  Gaetano Tobin ;GaetanoTobin;13
+545;  Burgundy ;Burgundy;8
+546;  Gamay ;Gamay;3
+547;  Louis Jadot ;LouisJadot;10
+548;  Louis Jadot ;LouisJadot;11
+549;  2016 ;2016;15
+550;  Frédéric Barnier ;FrédéricBarnier;13
+551;  Maipo ;Maipo;8
+552;  Vina Concha y Toro ;VinaConchayToro;11
+553;  2015 ;2015;15
+554;  Marcelo Papa ;MarceloPapa;13
+555;  Swartland ;Swartland;8
+556;  Pinotage ;Pinotage;3
+557;  Home of Origin Wine (Pty) Ltd. ;HomeofOriginWine(Pty)Ltd.;11
+558;  2016 ;2016;15
+559;  Hermias Hugo ;HermiasHugo;13
+560;  18 ;18;14
+561;  Andalucia ;Andalucia;8
+562;  Palomino ;Palomino;3
+563;  Bodegas Barbadillo ;BodegasBarbadillo;11
+564;  NV ;NV;15
+565;  Montserrat Molina ;MontserratMolina;13
+566;  Limari Valley ;LimariValley;8
+567;  Concha y Toro ;ConchayToro;11
+568;  2016 ;2016;15
+569;  Marcelo Papa ;MarceloPapa;13
+570;  Hungary ;Hungary;2
+571;  Bull's Blood ;Bull'sBlood;3
+572;  Törley Talisman ;TörleyTalisman;10
+573;  Törley Kft. ;TörleyKft.;11
+574;  2015 ;2015;15
+575;  Barefoot Cellars ;BarefootCellars;11
+576;  NV ;NV;15
+577;  Jen Wall ;JenWall;13
+578;  Baron de Ley S.A ;BarondeLeyS.A;11
+579;  2012 ;2012;15
+580;  Gonzalo Rodriguez ;GonzaloRodriguez;13
+581;  Carmenère ;Carmenère;3
+582;  Las Cometas ;LasCometas;10
+583;  Las Pitras ;LasPitras;11
+584;  2014 ;2014;15
+585;  Las Pitras ;LasPitras;13
+586;  Provence ;Provence;8
+587;  Cinsault ;Cinsault;3
+588;  Berne ;Berne;11
+589;  2016 ;2016;15
+590;  Thomas Delagarde ;ThomasDelagarde;13
+591;  Loire ;Loire;8
+592;  Fournier Pere et Fils ;FournierPereetFils;11
+593;  2016 ;2016;15
+594;  Claude Fournier ;ClaudeFournier;13
+595;  Swartland ;Swartland;8
+596;  Chenin Blanc ;CheninBlanc;3
+597;  Home of Origin (Pty) Ltd. ;HomeofOrigin(Pty)Ltd.;11
+598;  2016 ;2016;15
+599;  Hermias Hugo ;HermiasHugo;13
+600;  Carinena ;Carinena;8
+601;  Marqués de Caranó ;MarquésdeCaranó;10
+602;  Grandes Vinos y Vinedos ;GrandesVinosyVinedos;11
+603;  2011 ;2011;15
+604;  Marcelo Morales Calderon ;MarceloMoralesCalderon;13
+605;  Barossa Valley ;BarossaValley;8
+606;  Touriga Nacional ;TourigaNacional;3
+607;  2014 ;2014;15
+608;  Carmenère ;Carmenère;3
+609;  Concha y Toro ;ConchayToro;10
+610;  Concha y Toro ;ConchayToro;11
+611;  2015 ;2015;15
+612;  Marcelo Papa ;MarceloPapa;13
+613;  Louis M Martini ;LouisMMartini;11
+614;  2013 ;2013;15
+615;  Michael Eddy ;MichaelEddy;13
+616;  New Zealand ;NewZealand;2
+617;  Brancott Estate ;BrancottEstate;11
+618;  2015 ;2015;15
+619;  Patrick Materman ;PatrickMaterman;13
+620;  New Zealand ;NewZealand;2
+621;  Brancott Estate ;BrancottEstate;11
+622;  2016 ;2016;15
+623;  Patrick Materman ;PatrickMaterman;13
+624;  New Zealand ;NewZealand;2
+625;  Ara ;Ara;10
+626;  Ara Estates ;AraEstates;11
+627;  Natural ;Natural;12
+628;  2012 ;2012;15
+629;  Jeff Clarke ;JeffClarke;13
+630;  Jacktone Ranch ;JacktoneRanch;10
+631;  Kingsland ;Kingsland;11
+632;  2013 ;2013;15
+633;  Kingsland ;Kingsland;13
+634;  Muscat ;Muscat;3
+635;  Isla Negra ;IslaNegra;10
+636;  Cono Sur ;ConoSur;11
+637;  2014 ;2014;15
+638;  Cecilia Padilla ;CeciliaPadilla;13
+639;  Barefoot Cellars ;BarefootCellars;11
+640;  NV ;NV;15
+641;  Jen Wall ;JenWall;13
+642;  Swartland ;Swartland;8
+643;  Pinotage ;Pinotage;3
+644;  Survivor Offspring ;SurvivorOffspring;10
+645;  Overhex Wines International ;OverhexWinesInternational;11
+646;  2016 ;2016;15
+647;  Ben Snyman ;BenSnyman;13
+648;  20 ;20;14
+649;  Portugal ;Portugal;2
+650;  Tinta Cão ;TintaCão;3
+651;  Touriga Francesa ;TourigaFrancesa;3
+652;  Touriga Nacional ;TourigaNacional;3
+653;  Taylor's® ;Taylor's®;10
+654;  The Fladgate Partnership ;TheFladgatePartnership;11
+655;  NV ;NV;15
+656;  David Guimaraens ;DavidGuimaraens;13
+657;  Germany ;Germany;2
+658;  NV ;NV;15
+659;  Rosemount  ;Rosemount;10
+660;  Treasury Wine Estates ;TreasuryWineEstates;11
+661;  2016 ;2016;15
+662;  Randall Cummins ;RandallCummins;13
+663;  Germany ;Germany;2
+664;  Pfalz ;Pfalz;8
+665;  Hans Baer ;HansBaer;10
+666;  Weinkellerei Hechtsheim ;WeinkellereiHechtsheim;11
+667;  2016 ;2016;15
+668;  Dimitar Panov and Kapka Georgieva ;DimitarPanovandKapkaGeorgieva;13
+669;  17.5 ;17.5;14
+670;  Sweet ;Sweet;9
+671;  Harveys ;Harveys;10
+672;  NV ;NV;15
+673;  New Zealand ;NewZealand;2
+674;  Graham Norton's Own ;GrahamNorton'sOwn;10
+675;  Invivo Wines ;InvivoWines;11
+676;  2016 ;2016;15
+677;  Rob Cameron/Graham Norton ;RobCameron/GrahamNorton;13
+678;  FirstCape ;FirstCape;11
+679;  2017 ;2017;15
+680;  David Smit ;DavidSmit;13
+681;  17.5 ;17.5;14
+682;  Andalucia ;Andalucia;8
+683;  Palomino ;Palomino;3
+684;  Croft ;Croft;10
+685;  Gonzalez Byass ;GonzalezByass;11
+686;  NV ;NV;15
+687;  Antonio Flores Pedregosa ;AntonioFloresPedregosa;13
+688;  Mazuelo ;Mazuelo;3
+689;  Cune ;Cune;10
+690;  Compania Vinicola del Norte de Espana ;CompaniaVinicoladelNortedeEspana;11
+691;  2014 ;2014;15
+692;  Maria Larrea ;MariaLarrea;13
+693;  Rhône ;Rhône;8
+694;  Parallèle 45 ;Parallèle45;10
+695;  Domaine Paul Jaboulet Aine ;DomainePaulJabouletAine;11
+696;  2014 ;2014;15
+697;  Mrs Caroline Frey ;MrsCarolineFrey;13
+698;  Sparkling Wine ;SparklingWine;1
+699;  Freixenet ;Freixenet;11
+700;  NV ;NV;15
+701;  Freixenet winemaking team ;Freixenetwinemakingteam;13
+702;  Germany ;Germany;2
+703;  WhiteGrapeBlend ;WhiteGrapeBlend;3
+704;  Perisecco ;Perisecco;10
+705;  Wein - und Sektkellerei Ostrau GmbH ;Wein-undSektkellereiOstrauGmbH;11
+706;  Crown ;Crown;12
+707;  NV ;NV;15
+708;  n.a. ;n.a.;13
+709;  European Union ;EuropeanUnion;2
+710;  Red Grape Blend ;RedGrapeBlend;3
+711;  Reh Kendermann GmbH ;RehKendermannGmbH;11
+712;  NV ;NV;15
+713;  Philipp Closheim ;PhilippClosheim;13
+714;  18 ;18;14
+715;  Muscat ;Muscat;3
+716;  Sweet ;Sweet;9
+717;  De Bortoli ;DeBortoli;10
+718;  De Bortoli ;DeBortoli;11
+719;  NV ;NV;15
+720;  Julie Mortlock ;JulieMortlock;13
+721;  Loire ;Loire;8
+722;  Chenin Blanc ;CheninBlanc;3
+723;  LGCF ;LGCF;11
+724;  2015 ;2015;15
+725;  Serge Debucy ;SergeDebucy;13
+726;  M. Chapoutier ;M.Chapoutier;10
+727;  M.Chapoutier ;M.Chapoutier;11
+728;  2015 ;2015;15
+729;  Michel Chapoutier ;MichelChapoutier;13
+730;  South Australia ;SouthAustralia;8
+731;  Oxford Landing ;OxfordLanding;10
+732;  Oxford Landing Winery ;OxfordLandingWinery;11
+733;  2016 ;2016;15
+734;  Andrew La Nauze ;AndrewLaNauze;13
+735;  Veneto, Abruzzo, Puglia, Sicily ;Veneto,Abruzzo,Puglia,Sicily;8
+736;  Montepulciano ;Montepulciano;3
+737;  Nero d'Avola ;Nerod'Avola;3
+738;  Primitivo ;Primitivo;3
+739;  Piccini ;Piccini;10
+740;  Piccini ;Piccini;11
+741;  NV ;NV;15
+742;  Antonella Conti ;AntonellaConti;13
+743;  Bordeaux ;Bordeaux;8
+744;  Yvon Mau ;YvonMau;11
+745;  2015 ;2015;15
+746;  Pierre Viellefosse ;PierreViellefosse;13
+747;  New Zealand ;NewZealand;2
+748;  Fern Bay ;FernBay;10
+749;  Lismore Wines ;LismoreWines;11
+750;  2015 ;2015;15
+751;  Lismore Wines ;LismoreWines;13
+752;  South Australia ;SouthAustralia;8
+753;  LCW Corp ;LCWCorp;11
+754;  2016 ;2016;15
+755;  Tesco Finest ;TescoFinest;10
+756;  Union Champagne ;UnionChampagne;11
+757;  NV ;NV;15
+758;  Yannick Collet ;YannickCollet;13
+759;  Sparkling Wine ;SparklingWine;1
+760;  Garganega ;Garganega;3
+761;  Raboso ;Raboso;3
+762;  Italia Plaza Centro ;ItaliaPlazaCentro;10
+763;  Casa Vinicola Zonin ;CasaVinicolaZonin;11
+764;  NV ;NV;15
+765;  Stefano Ferrante ;StefanoFerrante;13
+766;  New Zealand ;NewZealand;2
+767;  Hawkes Bay ;HawkesBay;8
+768;  Oyster Bay ;OysterBay;10
+769;  Oyster Bay Wines New Zealand Ltd. ;OysterBayWinesNewZealandLtd.;11
+770;  2015 ;2015;15
+771;  Michael Ivicevich ;MichaelIvicevich;13
+772;  Red Grape Blend ;RedGrapeBlend;3
+773;  Val D'orbieu ;ValD'orbieu;11
+774;  NV ;NV;15
+775;  Marie Julian ;MarieJulian;13
+776;  Bouchard Aines & Fils ;BouchardAines&Fils;11
+777;  2014 ;2014;15
+778;  Vincent Bottreau ;VincentBottreau;13
+779;  South West ;SouthWest;8
+780;  Gros Manseng ;GrosManseng;3
+781;  Plaimont ;Plaimont;11
+782;  2016 ;2016;15
+783;  Christine Cabri ;ChristineCabri;13
+784;  Burgundy ;Burgundy;8
+785;  Bouchard Aîné & Fils ;BouchardAîné&Fils;11
+786;  2014 ;2014;15
+787;  Laurent Mairet ;LaurentMairet;13
+788;  Victoria ;Victoria;8
+789;  De Bortoli ;DeBortoli;11
+790;  2016 ;2016;15
+791;  Steve Webber ;SteveWebber;13
+792;  New Zealand ;NewZealand;2
+793;  Brancott Estate ;BrancottEstate;11
+794;  2016 ;2016;15
+795;  Patrick Materman ;PatrickMaterman;13
+796;  Rueda ;Rueda;8
+797;  Verdejo ;Verdejo;3
+798;  Pulpito ;Pulpito;10
+799;  Pagos del Rey SL ;PagosdelReySL;11
+800;  2016 ;2016;15
+801;  German Nieto ;GermanNieto;13
+802;  Maipo ;Maipo;8
+803;  Marques de Casa Concha ;MarquesdeCasaConcha;10
+804;  Viña Concha y Toro SA ;ViñaConchayToroSA;11
+805;  2013 ;2013;15
+806;  Marcelo Papa ;MarceloPapa;13
+807;  New Zealand ;NewZealand;2
+808;  Mud House ;MudHouse;10
+809;  Accolade Wines ;AccoladeWines;11
+810;  2015 ;2015;15
+811;  Cleighten Cornelius ;CleightenCornelius;13
+812;  South Australia ;SouthAustralia;8
+813;  Wirra Wirra ;WirraWirra;10
+814;  Wirra Wirra ;WirraWirra;11
+815;  2013 ;2013;15
+816;  Paul Smith & Paul Carpenter ;PaulSmith&PaulCarpenter;13
+817;  20 ;20;14
+818;  Portugal ;Portugal;2
+819;  Douro ;Douro;8
+820;  Touriga Franca ;TourigaFranca;3
+821;  Touriga Nacional ;TourigaNacional;3
+822;  Graham's ;Graham's;10
+823;  Symington Family Estates ;SymingtonFamilyEstates;11
+824;  2011 ;2011;15
+825;  Charles Symington ;CharlesSymington;13
+826;  Gallo ;Gallo;10
+827;  E. & J. Gallo Winery ;E.&J.GalloWinery;11
+828;  2015 ;2015;15
+829;  Cal Dennison ;CalDennison;13
+830;  The Rhone Valley ;TheRhoneValley;8
+831;  Domaines et Châteaux ;DomainesetChâteaux;10
+832;  Château Bouchassy ;ChâteauBouchassy;11
+833;  2016 ;2016;15
+834;  Famille Degoul ;FamilleDegoul;13
+835;  Stormhoek  ;Stormhoek;10
+836;  Home of Origin Wine (Pty) Ltd. ;HomeofOriginWine(Pty)Ltd.;11
+837;  2016 ;2016;15
+838;  Johan Gerber ;JohanGerber;13
+839;  Aconcagua ;Aconcagua;8
+840;  Vina Cono Sur ;VinaConoSur;11
+841;  2016 ;2016;15
+842;  Matias Rios ;MatiasRios;13
+843;  8.5 ;8.5;14
+844;  E. & J. Gallo Winery ;E.&J.GalloWinery;11
+845;  2016 ;2016;15
+846;  Cal Dennison ;CalDennison;13
+847;  Picpoul ;Picpoul;3
+848;  Les Costières De Pomérols ;LesCostièresDePomérols;11
+849;  2016 ;2016;15
+850;  Jean Luc LAVERGNE ;JeanLucLAVERGNE;13
+851;  South Australia ;SouthAustralia;8
+852;  Tim Adams ;TimAdams;10
+853;  Tim Adams Wines ;TimAdamsWines;11
+854;  2013 ;2013;15
+855;  Tim Adams ;TimAdams;13
+856;  South West ;SouthWest;8
+857;  Cabernet Franc ;CabernetFranc;3
+858;  Tannat ;Tannat;3
+859;  Reserve des Tuguets ;ReservedesTuguets;10
+860;  Plaimont Producteurs ;PlaimontProducteurs;11
+861;  2014 ;2014;15
+862;  Team of winemakers ;Teamofwinemakers;13
+863;  New Zealand ;NewZealand;2
+864;  Manuku Bay ;ManukuBay;10
+865;  Indevin ;Indevin;11
+866;  2016 ;2016;15
+867;  Jason Cook ;JasonCook;13
+868;  South Australia ;SouthAustralia;8
+869;  Tim Adams ;TimAdams;10
+870;  Tim Adams Wines ;TimAdamsWines;11
+871;  2014 ;2014;15
+872;  Tim Adams ;TimAdams;13
+873;  South West ;SouthWest;8
+874;  Cabernet Franc ;CabernetFranc;3
+875;  Tannat ;Tannat;3
+876;  Plaimont ;Plaimont;10
+877;  Plaimont Producteurs ;PlaimontProducteurs;11
+878;  2010 ;2010;15
+879;  Thomas Troulay ;ThomasTroulay;13
+880;  South Australia ;SouthAustralia;8
+881;  Wolf Blass ;WolfBlass;10
+882;  Wolf Blass ;WolfBlass;11
+883;  2016 ;2016;15
+884;  Matt O'Leary ;MattO'Leary;13
+885;  Stellenbosch ;Stellenbosch;8
+886;  Stellenbosch ;Stellenbosch;10
+887;  Home of Origin Wine (Pty) Ltd. ;HomeofOriginWine(Pty)Ltd.;11
+888;  2016 ;2016;15
+889;  Hermias Hugo ;HermiasHugo;13
+890;  The Loire Valley ;TheLoireValley;8
+891;  Melon de Bourgogne ;MelondeBourgogne;3
+892;  La Marinière ;LaMarinière;10
+893;  Vignerons du Pallet ;VigneronsduPallet;11
+894;  2015 ;2015;15
+895;  Mr Laurent Bouchaud ;MrLaurentBouchaud;13
+896;  20 ;20;14
+897;  Portugal ;Portugal;2
+898;  Douro ;Douro;8
+899;  Tinta Barroca ;TintaBarroca;3
+900;  Tinta Cão ;TintaCão;3
+901;  Tinta Roriz ;TintaRoriz;3
+902;  Touriga Francesa ;TourigaFrancesa;3
+903;  Touriga Nacional ;TourigaNacional;3
+904;  Symington Family Estates ;SymingtonFamilyEstates;11
+905;  2011 ;2011;15
+906;  Manuel Rocha ;ManuelRocha;13
+907;  The Rhone Valley ;TheRhoneValley;8
+908;  H. Valrasque ;H.Valrasque;10
+909;  Castel ;Castel;11
+910;  2014 ;2014;15
+911;  Thomas Castet ;ThomasCastet;13
+912;  Bordeaux ;Bordeaux;8
+913;  Cabernet Franc ;CabernetFranc;3
+914;  Domaines et Châteaux ;DomainesetChâteaux;10
+915;  Château le Plantey ;ChâteaulePlantey;11
+916;  2014 ;2014;15
+917;  Famille Valade ;FamilleValade;13
+918;  Sparkling Wine ;SparklingWine;1
+919;  Italia Plaza Centro ;ItaliaPlazaCentro;10
+920;  CR-Campegine in Vazzola (TV) - Italy ;CR-CampegineinVazzola(TV)-Italy;11
+921;  NV ;NV;15
+922;  Nederburg ;Nederburg;10
+923;  Distell ;Distell;11
+924;  2016 ;2016;15
+925;  Samuel Viljoen ;SamuelViljoen;13
+926;  Burgundy ;Burgundy;8
+927;  Bouchard Aîné & Fils ;BouchardAîné&Fils;11
+928;  2014 ;2014;15
+929;  Laurent Mairet ;LaurentMairet;13
+930;  Sparkling Wine ;SparklingWine;1
+931;  Chenin Blanc ;CheninBlanc;3
+932;  Mauzac ;Mauzac;3
+933;  Sieur d'Arques ;Sieurd'Arques;11
+934;  2015 ;2015;15
+935;  Viviane Gianesini ;VivianeGianesini;13
+936;  New Zealand ;NewZealand;2
+937;  Twelve Trees ;TwelveTrees;10
+938;  Spring Creek Vintners ;SpringCreekVintners;11
+939;  2015 ;2015;15
+940;  N/A ;N/A;13
+941;  The Loire Valley ;TheLoireValley;8
+942;  La Cheteau ;LaCheteau;10
+943;  LES GRANDS CHAIS DE FRANCE GROUP ;LESGRANDSCHAISDEFRANCEGROUP;11
+944;  2014 ;2014;15
+945;  Yellow Tail ;YellowTail;10
+946;  Casella Wines ;CasellaWines;11
+947;  Synthetic Cork;SyntheticCork;12
+948;  2016 ;2016;15
+949;  John Casella ;JohnCasella;13
+950;  Tesco Finest ;TescoFinest;10
+951;  Chanoine Freres ;ChanoineFreres;11
+952;  NV ;NV;15
+953;  Fabien Henry ;FabienHenry;13
+954;  South Australia ;SouthAustralia;8
+955;  Semillon ;Semillon;3
+956;  Tim Adams ;TimAdams;10
+957;  Tim Adams Wines ;TimAdamsWines;11
+958;  2014 ;2014;15
+959;  Tim Adams ;TimAdams;13
+960;  Germany ;Germany;2
+961;  Non Vintage ;NonVintage;15
+962;  5 ;5;14
+963;  Muscat ;Muscat;3
+964;  Bartenura ;Bartenura;10
+965;  Araldica Vini ;AraldicaVini;11
+966;  2016 ;2016;15
+967;  20 ;20;14
+968;  Portugal ;Portugal;2
+969;  Douro ;Douro;8
+970;  Tinta Amarela ;TintaAmarela;3
+971;  Tinta Barroca ;TintaBarroca;3
+972;  Tinta Cão ;TintaCão;3
+973;  Touriga Francesa ;TourigaFrancesa;3
+974;  Touriga Nacional ;TourigaNacional;3
+975;  Cockburn's ;Cockburn's;10
+976;  Symington Family Estates ;SymingtonFamilyEstates;11
+977;  NV ;NV;15
+978;  Charles Symington ;CharlesSymington;13
+979;  Viña Concha y Toro SA ;ViñaConchayToroSA;11
+980;  2016 ;2016;15
+981;  Marcelo Papa ;MarceloPapa;13
+982;  Umbria ;Umbria;8
+983;  Grechetto ;Grechetto;3
+984;  Trebbiano ;Trebbiano;3
+985;  GIV S.p.A. ;GIVS.p.A.;11
+986;  2016 ;2016;15
+987;  Massimo Panattoni  ;MassimoPanattoni;13
+988;  Campania ;Campania;8
+989;  Aglianico ;Aglianico;3
+990;  Feudi  ;Feudi;11
+991;  2015 ;2015;15
+992;  Pierpaolo Sirch ;PierpaoloSirch;13
+993;  Provence ;Provence;8
+994;  Cinsault ;Cinsault;3
+995;  Up ;Up;10
+996;  Chateau de Berne ;ChateaudeBerne;11
+997;  2016 ;2016;15
+998;  Thomas Delagarde ;ThomasDelagarde;13
+999;  8.5 ;8.5;14
+1000;  Barefoot Cellars ;BarefootCellars;11
+1001;  NV ;NV;15
+1002;  Jen Wall ;JenWall;13
+1003;  Argentina ;Argentina;2
+1004;  Mendoza ;Mendoza;8
+1005;  Trivento ;Trivento;10
+1006;  Trivento ;Trivento;11
+1007;  2016 ;2016;15
+1008;  German Di Cesare ;GermanDiCesare;13
+1009;  Campo de Borja ;CampodeBorja;8
+1010;  Bodegas Aragonesas ;BodegasAragonesas;11
+1011;  2016 ;2016;15
+1012;  Javier Vela ;JavierVela;13
+1013;  Sparkling Wine ;SparklingWine;1
+1014;  Prosecco ;Prosecco;3
+1015;  I Heart ;IHeart;10
+1016;  Contarini Vini e Spumanti S.r.l.  ;ContariniVinieSpumantiS.r.l.;11
+1017;  NV ;NV;15
+1018;  Sergiu Scobioala ;SergiuScobioala;13
+1019;  Argentina ;Argentina;2
+1020;  Salta ;Salta;8
+1021;  Torrontes ;Torrontes;3
+1022;  Catena ;Catena;11
+1023;  2016 ;2016;15
+1024;  Felipe Stahlschmidt ;FelipeStahlschmidt;13
+1025;  Bordeaux ;Bordeaux;8
+1026;  Cabernet Franc ;CabernetFranc;3
+1027;  Château Peymouton ;ChâteauPeymouton;10
+1028;  LGCF ;LGCF;11
+1029;  2014 ;2014;15
+1030;  Famille Beaumartin ;FamilleBeaumartin;13
+1031;  Piedmont ;Piedmont;8
+1032;  Cortese ;Cortese;3
+1033;  Gavi ;Gavi;10
+1034;  Fratelli Martini Secondo Luigi S.p.A. ;FratelliMartiniSecondoLuigiS.p.A.;11
+1035;  Synthetic Cork;SyntheticCork;12
+1036;  2016 ;2016;15
+1037;  Massimo Marasso ;MassimoMarasso;13
+1038;  Starve Dog Lane ;StarveDogLane;10
+1039;  Accolade Wines ;AccoladeWines;11
+1040;  2016 ;2016;15
+1041;  Accolade Wines ;AccoladeWines;13
+1042;  Graciano ;Graciano;3
+1043;  Baron De Ley ;BaronDeLey;11
+1044;  2011 ;2011;15
+1045;  Gonzalo Rodriguez ;GonzaloRodriguez;13
+1046;  The Loire Valley ;TheLoireValley;8
+1047;  Fournier Pere et Fils ;FournierPereetFils;11
+1048;  2015 ;2015;15
+1049;  Claude Fournier ;ClaudeFournier;13
+1050;  Burgundy ;Burgundy;8
+1051;  Blason de Bourgogne ;BlasondeBourgogne;10
+1052;  Vignerons Associes ;VigneronsAssocies;11
+1053;  2015 ;2015;15
+1054;  Georges Brichon ;GeorgesBrichon;13
+1055;  Valle Central ;ValleCentral;8
+1056;  Cono Sur ;ConoSur;10
+1057;  Vina Cono Sur ;VinaConoSur;11
+1058;  2015 ;2015;15
+1059;  Matias Rias ;MatiasRias;13
+1060;  Germany ;Germany;2
+1061;  Rheingau ;Rheingau;8
+1062;  Schloss Schönborn ;SchlossSchönborn;10
+1063;  Weingut Schloss Schönborn ;WeingutSchlossSchönborn;11
+1064;  2011 ;2011;15
+1065;  Schloss Schönborn ;SchlossSchönborn;13
+1066;  Hardys ;Hardys;10
+1067;  Accolade Wines ;AccoladeWines;11
+1068;  2016 ;2016;15
+1069;  Paul Lapsley ;PaulLapsley;13
+1070;  New Zealand ;NewZealand;2
+1071;  Wairau Cove ;WairauCove;10
+1072;  Indevin Wine Partners ;IndevinWinePartners;11
+1073;  2015 ;2015;15
+1074;  Mike Just ;MikeJust;13
+1075;  Argentina ;Argentina;2
+1076;  Mendoza ;Mendoza;8
+1077;  Parra Alta ;ParraAlta;10
+1078;  Trivento ;Trivento;11
+1079;  2016 ;2016;15
+1080;  Rafael Miranda ;RafaelMiranda;13
+1081;  Concha y Toro ;ConchayToro;11
+1082;  2013 ;2013;15
+1083;  Marcelo Papa ;MarceloPapa;13
+1084;  Blossom Hill ;BlossomHill;11
+1085;  2015 ;2015;15
+1086;  Marty Spate ;MartySpate;13
+1087;  Bordeaux ;Bordeaux;8
+1088;  Ailes de Paloumey ;AilesdePaloumey;10
+1089;  Chateau Paloumey ;ChateauPaloumey;11
+1090;  2008 ;2008;15
+1091;  Martine Cazeneuve & Daniel llose ;MartineCazeneuve&Danielllose;13
+1092;  Chenin Blanc ;CheninBlanc;3
+1093;  Kumala ;Kumala;10
+1094;  Kumala ;Kumala;11
+1095;  2016 ;2016;15
+1096;  Ben Jordaan ;BenJordaan;13
+1097;  Argentina ;Argentina;2
+1098;  Mendoza ;Mendoza;8
+1099;  Catena ;Catena;11
+1100;  2016 ;2016;15
+1101;  Felipe Stahlschmidt ;FelipeStahlschmidt;13
+1102;  Rueda ;Rueda;8
+1103;  Verdejo ;Verdejo;3
+1104;  Cuatro Rayas ;CuatroRayas;10
+1105;  Agricola Castellana S.C.L ;AgricolaCastellanaS.C.L;11
+1106;  2016 ;2016;15
+1107;  Angel Calleja ;AngelCalleja;13
+1108;  Piedmont ;Piedmont;8
+1109;  Nebbiolo ;Nebbiolo;3
+1110;  Fratelli Martini Secondo Luigi S.p.A. ;FratelliMartiniSecondoLuigiS.p.A.;11
+1111;  2013 ;2013;15
+1112;  Massimo Marasso ;MassimoMarasso;13
+1113;  19 ;19;14
+1114;  Portugal ;Portugal;2
+1115;  Tinta Negra Mole ;TintaNegraMole;3
+1116;  Blandy's ;Blandy's;10
+1117;  The Madeira Wine Company ;TheMadeiraWineCompany;11
+1118;  NV ;NV;15
+1119;  Francisco Albuquerque ;FranciscoAlbuquerque;13
+1120;  Sangiovese ;Sangiovese;3
+1121;  Caviro S.c.a., Faenza in Forlì Winery, Italy. ;CaviroS.c.a.,FaenzainForlìWinery,Italy.;11
+1122;  2015 ;2015;15
+1123;  Giordano Zinzani ;GiordanoZinzani;13
+1124;  Paarl ;Paarl;8
+1125;  Pinotage ;Pinotage;3
+1126;  Paarl Mountains ;PaarlMountains;10
+1127;  Home of Origin Wine ;HomeofOriginWine;11
+1128;  2014 ;2014;15
+1129;  Hermias Hugo ;HermiasHugo;13
+1130;  Château Beauvoisin ;ChâteauBeauvoisin;10
+1131;  Famille Roque ;FamilleRoque;11
+1132;  2015 ;2015;15
+1133;  England ;England;2
+1134;  Surrey ;Surrey;8
+1135;  Muller Thurgau ;MullerThurgau;3
+1136;  Seyval Blanc ;SeyvalBlanc;3
+1137;  Denbies Wine Estate ;DenbiesWineEstate;11
+1138;  2015 ;2015;15
+1139;  John Worontschak ;JohnWorontschak;13
+1140;  Les Vins Skalli ;LesVinsSkalli;11
+1141;  2016 ;2016;15
+1142;  Laurent Sauvage ;LaurentSauvage;13
+1143;  Bordeaux ;Bordeaux;8
+1144;  Muscadelle ;Muscadelle;3
+1145;  Yvon Mau ;YvonMau;11
+1146;  NV ;NV;15
+1147;  Piere Ville Fosse ;PiereVilleFosse;13
+1148;  Sparkling Wine ;SparklingWine;1
+1149;  Treasury Wine Estates ;TreasuryWineEstates;11
+1150;  NV ;NV;15
+1151;  Marty Spate ;MartySpate;13
+1152;  J.P. Chenet ;J.P.Chenet;10
+1153;  Les Grands Chais de France  ;LesGrandsChaisdeFrance;11
+1154;  2016 ;2016;15
+1155;  Vincent Euzet ;VincentEuzet;13
+1156;  New Zealand ;NewZealand;2
+1157;  Jackson Estate ;JacksonEstate;11
+1158;  2016 ;2016;15
+1159;  Matt Patterson-Green ;MattPatterson-Green;13
+1160;  19 ;19;14
+1161;  Portugal ;Portugal;2
+1162;  Douro ;Douro;8
+1163;  Tinta Barroca ;TintaBarroca;3
+1164;  Tinta Cão ;TintaCão;3
+1165;  Touriga Franca ;TourigaFranca;3
+1166;  Touriga Nacional ;TourigaNacional;3
+1167;  Symington Family Estates ;SymingtonFamilyEstates;11
+1168;  NV ;NV;15
+1169;  Manuel Rocha ;ManuelRocha;13
+1170;  New Zealand ;NewZealand;2
+1171;  Old Renwick Road ;OldRenwickRoad;10
+1172;  PLB Wines Ltd ;PLBWinesLtd;11
+1173;  2012 ;2012;15
+1174;  Provence & Corsica ;Provence&Corsica;8
+1175;  Cinsault ;Cinsault;3
+1176;  Sabro ;Sabro;3
+1177;  Les Calandières ;LesCalandières;10
+1178;  Castel ;Castel;11
+1179;  Synthetic Cork;SyntheticCork;12
+1180;  2016 ;2016;15
+1181;  Sebastien Trani ;SebastienTrani;13
+1182;  Provence ;Provence;8
+1183;  Cinsault ;Cinsault;3
+1184;  Rolle ;Rolle;3
+1185;  Trebbiano ;Trebbiano;3
+1186;  Advini ;Advini;11
+1187;  Synthetic Cork;SyntheticCork;12
+1188;  2016 ;2016;15
+1189;  Guillaume Cordonis ;GuillaumeCordonis;13
+1190;  Bordeaux ;Bordeaux;8
+1191;  Château de Malleret ;ChâteaudeMalleret;10
+1192;  Grands Vins de Gironde ;GrandsVinsdeGironde;11
+1193;  2004 ;2004;15
+1194;  Tulbagh ;Tulbagh;8
+1195;  Sangiovese ;Sangiovese;3
+1196;  Poggio Teo ;PoggioTeo;10
+1197;  Piccini Srl ;PicciniSrl;11
+1198;  2012 ;2012;15
+1199;  Paolo Vagaggini ;PaoloVagaggini;13
+1200;  South Australia ;SouthAustralia;8
+1201;  Jim Barry ;JimBarry;10
+1202;  Jim Barry Wines ;JimBarryWines;11
+1203;  2016 ;2016;15
+1204;  Peter Barry ;PeterBarry;13
+1205;  4 ;4;14
+1206;  Sparkling Wine ;SparklingWine;1
+1207;  Trentino ;Trentino;8
+1208;  Angioletti ;Angioletti;10
+1209;  Somontano ;Somontano;8
+1210;  Viñas del Vero ;ViñasdelVero;10
+1211;  Viñas del Vero ;ViñasdelVero;11
+1212;  2015 ;2015;15
+1213;  Jose Ferrer ;JoseFerrer;13
+1214;  Mountain Vineyards ;MountainVineyards;10
+1215;  Home of Origin Wine (Pty) Ltd. ;HomeofOriginWine(Pty)Ltd.;11
+1216;  2017 ;2017;15
+1217;  Johan Gerber ;JohanGerber;13
+1218;  Faustino Rivero Ulecia ;FaustinoRiveroUlecia;11
+1219;  2016 ;2016;15
+1220;  Rodrigo Espinosa ;RodrigoEspinosa;13
+1221;  New Zealand ;NewZealand;2
+1222;  Villa Maria ;VillaMaria;10
+1223;  Villa Maria ;VillaMaria;11
+1224;  2016 ;2016;15
+1225;  Nick Picone ;NickPicone;13
+1226;  20 ;20;14
+1227;  Portugal ;Portugal;2
+1228;  Douro ;Douro;8
+1229;  Tinta Amarela ;TintaAmarela;3
+1230;  Tinta Barroca ;TintaBarroca;3
+1231;  Tinta Cão ;TintaCão;3
+1232;  Touriga Francesa ;TourigaFrancesa;3
+1233;  Touriga Nacional ;TourigaNacional;3
+1234;  Cockburn's ;Cockburn's;10
+1235;  Symington Family Estates ;SymingtonFamilyEstates;11
+1236;  NV ;NV;15
+1237;  Charles Symington ;CharlesSymington;13
+1238;  South Australia ;SouthAustralia;8
+1239;  LCW Corp ;LCWCorp;11
+1240;  2016 ;2016;15
+1241;  17.5 ;17.5;14
+1242;  Jerez ;Jerez;8
+1243;  Palomino ;Palomino;3
+1244;  Sweet ;Sweet;9
+1245;  Real Tesoro ;RealTesoro;11
+1246;  NV ;NV;15
+1247;  Real Tesoro ;RealTesoro;13
+1248;  Barefoot Cellars ;BarefootCellars;11
+1249;  NV ;NV;15
+1250;  Jen Wall ;JenWall;13
+1251;  Kingston Estate Wines ;KingstonEstateWines;11
+1252;  2013 ;2013;15
+1253;  Helen Foggo ;HelenFoggo;13
+1254;  The Loire Valley ;TheLoireValley;8
+1255;  Pouilly Fumé ;PouillyFumé;10
+1256;  Fournier Pere et Fils ;FournierPereetFils;11
+1257;  2015 ;2015;15
+1258;  Claude Fournier ;ClaudeFournier;13
+1259;  South Australia ;SouthAustralia;8
+1260;  First Harvest ;FirstHarvest;10
+1261;  Limestone Coast Wines ;LimestoneCoastWines;11
+1262;  2014 ;2014;15
+1263;  Grant Semmens ;GrantSemmens;13
+1264;  Bridlewood Winery ;BridlewoodWinery;11
+1265;  2013 ;2013;15
+1266;  Matt Steel ;MattSteel;13
+1267;  South Australia ;SouthAustralia;8
+1268;  Tim Adams ;TimAdams;10
+1269;  Tim Adams Wines ;TimAdamsWines;11
+1270;  2016 ;2016;15
+1271;  Tim Adams ;TimAdams;13
+1272;  South Australia ;SouthAustralia;8
+1273;  The Regions ;TheRegions;10
+1274;  LCW Wines ;LCWWines;11
+1275;  2013 ;2013;15
+1276;  Grant Semmens ;GrantSemmens;13
+1277;  8 ;8;14
+1278;  Lambrusco ;Lambrusco;3
+1279;  Cantine Riunite & Civ S.C.A. ;CantineRiunite&CivS.C.A.;11
+1280;  NV ;NV;15
+1281;  Boschendal ;Boschendal;10
+1282;  Boschendal Wines ;BoschendalWines;11
+1283;  2016 ;2016;15
+1284;  Lizelle Gerber ;LizelleGerber;13
+1285;  Concha y Toro ;ConchayToro;11
+1286;  2015 ;2015;15
+1287;  Marcelo Papa ;MarceloPapa;13
+1288;  7.5 ;7.5;14
+1289;  Sparkling Wine ;SparklingWine;1
+1290;  Piedmont ;Piedmont;8
+1291;  Bracetto ;Bracetto;3
+1292;  Moscato ;Moscato;3
+1293;  Villa Garducci  ;VillaGarducci;10
+1294;  Fratelli Martini ;FratelliMartini;11
+1295;  NV ;NV;15
+1296;  Massimo Marasso ;MassimoMarasso;13
+1297;  Viognier ;Viognier;3
+1298;  Jacktone Ranch ;JacktoneRanch;10
+1299;  McManis Family Vineyards ;McManisFamilyVineyards;11
+1300;  2015 ;2015;15
+1301;  Kingsland ;Kingsland;13
+1302;  15 ;15;14
+1303;  Andalucia ;Andalucia;8
+1304;  Palomino ;Palomino;3
+1305;  Gonzalez Byass ;GonzalezByass;10
+1306;  Gonzalez Byass ;GonzalezByass;11
+1307;  NV ;NV;15
+1308;  Antonio Flores ;AntonioFlores;13
+1309;  Limari Valley ;LimariValley;8
+1310;  Marques de Casa Concha ;MarquesdeCasaConcha;10
+1311;  Viña Concha y Toro SA ;ViñaConchayToroSA;11
+1312;  2015 ;2015;15
+1313;  Marcelo Papa ;MarceloPapa;13
+1314;  Lazio ;Lazio;8
+1315;  Malvasia ;Malvasia;3
+1316;  Trebbiano ;Trebbiano;3
+1317;  San Marco ;SanMarco;11
+1318;  2015 ;2015;15
+1319;  Piero Violo ;PieroViolo;13
+1320;  15 ;15;14
+1321;  Valencia ;Valencia;8
+1322;  Muscat ;Muscat;3
+1323;  Cherubino Valsangiacomo S.A. ;CherubinoValsangiacomoS.A.;11
+1324;  NV ;NV;15
+1325;  Modesto Frances ;ModestoFrances;13
+1326;  15 ;15;14
+1327;  Jerez ;Jerez;8
+1328;  Palomino ;Palomino;3
+1329;  Real Tesoro ;RealTesoro;11
+1330;  NV ;NV;15
+1331;  Real Tesoro ;RealTesoro;13
+1332;  Faustino VII ;FaustinoVII;10
+1333;  Bodegas Faustino ;BodegasFaustino;11
+1334;  2015 ;2015;15
+1335;  Rafael Martinez ;RafaelMartinez;13
+1336;  19 ;19;14
+1337;  Portugal ;Portugal;2
+1338;  Douro ;Douro;8
+1339;  Tinta Amarela ;TintaAmarela;3
+1340;  Tinto Cão ;TintoCão;3
+1341;  Touriga Franca ;TourigaFranca;3
+1342;  Touriga Nacional ;TourigaNacional;3
+1343;  Cockburn's ;Cockburn's;10
+1344;  Symington's ;Symington's;11
+1345;  Artificial ;Artificial;12
+1346;  NV ;NV;15
+1347;  Charles Symington ;CharlesSymington;13
+1348;  Sangre de Toro ;SangredeToro;10
+1349;  Miguel Torres ;MiguelTorres;11
+1350;  2015 ;2015;15
+1351;  Migueal A Torres ;MiguealATorres;13
+1352;  Lindeman's ;Lindeman's;10
+1353;  Treasury Wine Estates ;TreasuryWineEstates;11
+1354;  2016 ;2016;15
+1355;  Wayne Falkenberg ;WayneFalkenberg;13
+1356;  Chenin Blanc ;CheninBlanc;3
+1357;  Pais ;Pais;3
+1358;  Picolit ;Picolit;3
+1359;  Pineau d'Aunis ;Pineaud'Aunis;3
+1360;  Pinot Blanc ;PinotBlanc;3
+1361;  McGuigan ;McGuigan;10
+1362;  Australian Vintage (Europe) Limited ;AustralianVintage(Europe)Limited;11
+1363;  2016 ;2016;15
+1364;  Thomas Jung ;ThomasJung;13
+1365;  The Rhone Valley ;TheRhoneValley;8
+1366;  M. Chapoutier ;M.Chapoutier;10
+1367;  M. Chapoutier ;M.Chapoutier;11
+1368;  2015 ;2015;15
+1369;  Michel Chapoutier ;MichelChapoutier;13
+1370;  Anakena ;Anakena;10
+1371;  Accolade Wines ;AccoladeWines;11
+1372;  2016 ;2016;15
+1373;  Accolade Wines ;AccoladeWines;13
+1374;  Provence & Corsica ;Provence&Corsica;8
+1375;  Cinsault ;Cinsault;3
+1376;  Castel Freres ;CastelFreres;11
+1377;  Synthetic Cork;SyntheticCork;12
+1378;  2016 ;2016;15
+1379;  Thomas Castet ;ThomasCastet;13
+1380;  Viura ;Viura;3
+1381;  Pagos del Rey SL ;PagosdelReySL;11
+1382;  2016 ;2016;15
+1383;  Jairo Fernandez ;JairoFernandez;13
+1384;  19 ;19;14
+1385;  Portugal ;Portugal;2
+1386;  Douro ;Douro;8
+1387;  Códega ;Códega;3
+1388;  Malvasia Fina ;MalvasiaFina;3
+1389;  Rabigato ;Rabigato;3
+1390;  Viosinho ;Viosinho;3
+1391;  Symington Family Estates ;SymingtonFamilyEstates;11
+1392;  NV ;NV;15
+1393;  Manuel Rochas ;ManuelRochas;13
+1394;  Lindeman's ;Lindeman's;10
+1395;  Lindeman's ;Lindeman's;11
+1396;  2016 ;2016;15
+1397;  Marie Clay ;MarieClay;13
+1398;  Jacktone Ranch ;JacktoneRanch;10
+1399;  McManis Family Vineyards ;McManisFamilyVineyards;11
+1400;  2015 ;2015;15
+1401;  Kingsland ;Kingsland;13
+1402;  Sparkling Wine ;SparklingWine;1
+1403;  Ca'val ;Ca'val;10
+1404;  Val D'Oca Srl ;ValD'OcaSrl;11
+1405;  NV ;NV;15
+1406;  Carlo Pagotto ;CarloPagotto;13
+1407;  Rhône ;Rhône;8
+1408;  Grenache Blanc ;GrenacheBlanc;3
+1409;  Marsanne ;Marsanne;3
+1410;  Viognier ;Viognier;3
+1411;  Les Dauphins ;LesDauphins;10
+1412;  Cellier des Dauphins ;CellierdesDauphins;11
+1413;  2015 ;2015;15
+1414;  Thierry Walet ;ThierryWalet;13
+1415;  Burgundy ;Burgundy;8
+1416;  Louis Jadot ;LouisJadot;10
+1417;  Louis Jadot ;LouisJadot;11
+1418;  2014 ;2014;15
+1419;  Frédéric Barnier ;FrédéricBarnier;13
+1420;  Casablanca ;Casablanca;8
+1421;  Cono Sur ;ConoSur;10
+1422;  Cono Sur ;ConoSur;11
+1423;  2014 ;2014;15
+1424;  Adolfo Hurtado ;AdolfoHurtado;13
+1425;  Sparkling Wine ;SparklingWine;1
+1426;  Freixenet ;Freixenet;11
+1427;  Josep Sarda ;JosepSarda;13
+1428;  E. & J. Gallo Winery ;E.&J.GalloWinery;11
+1429;  2016 ;2016;15
+1430;  Cal Dennison ;CalDennison;13
+1431;  Sparkling Wine ;SparklingWine;1
+1432;  Cava ;Cava;8
+1433;  Trepat ;Trepat;3
+1434;  Freixenet ;Freixenet;11
+1435;  NV ;NV;15
+1436;  Josep Bulap ;JosepBulap;13
+1437;  Viura ;Viura;3
+1438;  Campo Viejo ;CampoViejo;10
+1439;  Bodegas Campo Viejo ;BodegasCampoViejo;11
+1440;  2016 ;2016;15
+1441;  Elena Adell ;ElenaAdell;13
+1442;  Bollinger ;Bollinger;10
+1443;  Bollinger ;Bollinger;11
+1444;  NV ;NV;15
+1445;  Gilles Descôtes ;GillesDescôtes;13
+1446;  China ;China;2
+1447;  Moser XV ;MoserXV;10
+1448;  Chateau Changyu Moser XV Co. Ltd ;ChateauChangyuMoserXVCo.Ltd;11
+1449;  2015 ;2015;15
+1450;  Mr. Fan Xi, Mr. Lenz Moser ;Mr.FanXi,Mr.LenzMoser;13
+1451;  Apothic ;Apothic;10
+1452;  Apothic Wines ;ApothicWines;11
+1453;  Synthetic Cork;SyntheticCork;12
+1454;  2015 ;2015;15
+1455;  Boyd Morrison ;BoydMorrison;13
+1456;  Germany ;Germany;2
+1457;  Rheinhessen ;Rheinhessen;8
+1458;  Silvaner ;Silvaner;3
+1459;  Reh Kendermann GmbH ;RehKendermannGmbH;11
+1460;  2016 ;2016;15
+1461;  Philipp Closheim ;PhilippClosheim;13
+1462;  Jacktone Ranch ;JacktoneRanch;10
+1463;  McManis Family Vineyards ;McManisFamilyVineyards;11
+1464;  2014 ;2014;15
+1465;  Kingsland ;Kingsland;13
+1466;  17.5 ;17.5;14
+1467;  Sweet ;Sweet;9
+1468;  Harveys ;Harveys;10
+1469;  NV ;NV;15
+1470;  Loire ;Loire;8
+1471;  Pouilly Fumé ;PouillyFumé;10
+1472;  Besombes Moc Baril  ;BesombesMocBaril;11
+1473;  2015 ;2015;15
+1474;  Mr Laurent Bourdin  ;MrLaurentBourdin;13
+1475;  New Zealand ;NewZealand;2
+1476;  Central Otago ;CentralOtago;8
+1477;  Mud House ;MudHouse;10
+1478;  Accolade Wines ;AccoladeWines;11
+1479;  2015 ;2015;15
+1480;  Nadine Worley ;NadineWorley;13
+1481;  Argentina ;Argentina;2
+1482;  Mendoza ;Mendoza;8
+1483;  Trivento ;Trivento;10
+1484;  Trivento ;Trivento;11
+1485;  2016 ;2016;15
+1486;  Maximilliano Ortiz ;MaximillianoOrtiz;13
+1487;  Bordeaux ;Bordeaux;8
+1488;  Yvon Mau ;YvonMau;11
+1489;  2016 ;2016;15
+1490;  Jean-Noël Boidron ;Jean-NoëlBoidron;13
+1491;  Veuve Clicquot ;VeuveClicquot;10
+1492;  Veuve Clicquot Ponsardin ;VeuveClicquotPonsardin;11
+1493;  2008 ;2008;15
+1494;  Dominique Demarville ;DominiqueDemarville;13
+1495;  Argentina ;Argentina;2
+1496;  Mendoza ;Mendoza;8
+1497;  Petit Verdot ;PetitVerdot;3
+1498;  Altaland  ;Altaland;10
+1499;  Catena ;Catena;11
+1500;  2016 ;2016;15
+1501;  Sparkling Wine ;SparklingWine;1
+1502;  England ;England;2
+1503;  Pinot Blanc ;PinotBlanc;3
+1504;  Chapel Down ;ChapelDown;10
+1505;  Chapel Down ;ChapelDown;11
+1506;  NV ;NV;15
+1507;  Josh Donaghay-Spire ;JoshDonaghay-Spire;13
+1508;  E. & J. Gallo Winery ;E.&J.GalloWinery;11
+1509;  2015 ;2015;15
+1510;  Cal Dennison ;CalDennison;13
+1511;  Burgundy ;Burgundy;8
+1512;  Antonin Rodet ;AntoninRodet;10
+1513;  Antonin Rodet ;AntoninRodet;11
+1514;  2013 ;2013;15
+1515;  Anne-Laure Hernette ;Anne-LaureHernette;13
+1516;  Hardys ;Hardys;10
+1517;  Accolade Wines ;AccoladeWines;11
+1518;  2016 ;2016;15
+1519;  Paul Burnett ;PaulBurnett;13
+1520;  Echo Falls ;EchoFalls;10
+1521;  Mission Bell ;MissionBell;11
+1522;  2015 ;2015;15
+1523;  Joe Alioto ;JoeAlioto;13
+1524;  20 ;20;14
+1525;  Portugal ;Portugal;2
+1526;  Douro ;Douro;8
+1527;  Tinta Amarela ;TintaAmarela;3
+1528;  Tinta Barroca ;TintaBarroca;3
+1529;  Tinta Cão ;TintaCão;3
+1530;  Tinta Roriz ;TintaRoriz;3
+1531;  Touriga Francesa ;TourigaFrancesa;3
+1532;  Touriga Nacional ;TourigaNacional;3
+1533;  Taylor's ;Taylor's;10
+1534;  Taylor, Fladgate & Yeatman Vinhos, S.A ;Taylor,Fladgate&YeatmanVinhos,S.A;11
+1535;  NV ;NV;15
+1536;  David Guimaraens ;DavidGuimaraens;13
+1537;  Western Australia ;WesternAustralia;8
+1538;  Winton Reserve ;WintonReserve;10
+1539;  PLB Wines ;PLBWines;11
+1540;  2014 ;2014;15
+1541;  Camplazens  ;Camplazens;10
+1542;  Chateau Camplazens ;ChateauCamplazens;11
+1543;  2014 ;2014;15
+1544;  Yann Claustre ;YannClaustre;13
+1545;  The Rhone Valley ;TheRhoneValley;8
+1546;  Grenache Blanc ;GrenacheBlanc;3
+1547;  Roussanne ;Roussanne;3
+1548;  Domaines et Châteaux ;DomainesetChâteaux;10
+1549;  Domaine des Bouts ;DomainedesBouts;11
+1550;  2016 ;2016;15
+1551;  David Givaudan ;DavidGivaudan;13
+1552;  Corvina ;Corvina;3
+1553;  Molinara ;Molinara;3
+1554;  Rondinella ;Rondinella;3
+1555;  Rocca Alata  ;RoccaAlata;10
+1556;  Equipe SRL ;EquipeSRL;11
+1557;  2015 ;2015;15
+1558;  Enol. Filippo Pedron ;Enol.FilippoPedron;13
+1559;  Argentina ;Argentina;2
+1560;  Mendoza ;Mendoza;8
+1561;  Trivento ;Trivento;10
+1562;  Trivento ;Trivento;11
+1563;  2016 ;2016;15
+1564;  German di Cesare ;GermandiCesare;13
+1565;  9 ;9;14
+1566;  Moscato ;Moscato;3
+1567;  E. & J. Gallo Winery ;E.&J.GalloWinery;11
+1568;  NV ;NV;15
+1569;  Cal Dennison ;CalDennison;13
+1570;  Burgundy ;Burgundy;8
+1571;  Louis Jadot ;LouisJadot;10
+1572;  Louis Jadot ;LouisJadot;11
+1573;  2015 ;2015;15
+1574;  Frédéric Barnier ;FrédéricBarnier;13
+1575;  Nederburg ;Nederburg;10
+1576;  Nederburg Wines ;NederburgWines;11
+1577;  2017 ;2017;15
+1578;  Wim Truter ;WimTruter;13
+1579;  Felix Solis ;FelixSolis;11
+1580;  2011 ;2011;15
+1581;  Antolin Gonzalez ;AntolinGonzalez;13
