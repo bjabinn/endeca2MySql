@@ -6,3 +6,4 @@ c:\users\jose a. beltran\documents\visual studio 2015\Projects\Endeca2MySql\Ende
 c:\users\jose a. beltran\documents\visual studio 2015\Projects\Endeca2MySql\Endeca2MySql\obj\Debug\Endeca2MySql.pdb
 c:\users\jose a. beltran\documents\visual studio 2015\Projects\Endeca2MySql\Endeca2MySql\bin\Debug\Newtonsoft.Json.dll
 c:\users\jose a. beltran\documents\visual studio 2015\Projects\Endeca2MySql\Endeca2MySql\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose A. Beltran\documents\visual studio 2015\Projects\Endeca2MySql\Endeca2MySql\bin\Debug\WineEndeca.txt
